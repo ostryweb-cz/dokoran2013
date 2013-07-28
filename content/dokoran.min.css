@@ -536,7 +536,7 @@ body {
 
 .ui-btn-text{
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 #index .ui-content{
@@ -632,6 +632,14 @@ font-size: 0.7em;
 	color: black;
 }
 
+#info{
+	font-size: 13px;
+}
+
 #info li{
 	list-style: none;
+}
+
+#ul li{
+	list-style: initial;
 }
