@@ -3,9 +3,10 @@ h2 {
 	margin-bottom:18px;
 	font-size:20px;
 	margin-left: 6px;
+	font-weight: bold
 }
 	
-	.nogo, ul.programsort li a.live.nogo, ul.programsort li a.club.nogo, ul.programsort li a.alter.nogo, ul.programsort li a.theatre.nogo {
+	.nogo, ul.programsort li a.live.nogo, ul.programsort li a.club.nogo, ul.programsort li a.alter.nogo, ul.programsort li a.theatre.nogo, ul.programsort li a.ctvrtek.nogo, ul.programsort li a.patek.nogo, ul.programsort li a.sobota.nogo {
 		background:#44423f;
 		color:#aaa9a9;
 	}
@@ -45,4 +46,16 @@ h2 {
 
 .ui-page {
 	overflow:auto;
+}
+
+.cas{
+	width:20%;
+}
+
+.jmeno{
+	width:50%;
+}
+
+.popis{
+	width:30%;
 }

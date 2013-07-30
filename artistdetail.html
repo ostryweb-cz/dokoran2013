@@ -7,20 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <link rel="shortcut icon" href="favicon.ico" />
-  <!-- iPhone & Android 2.2+ -->
-  <link rel="apple-touch-icon" href="icons/dokoranIcon57x57.png" />
-  <!-- iPhone 4 retina display -->
-  <link rel="apple-touch-icon" sizes="114x114" href="icons/dokoranIcon114x114.png" />
-  <!-- iPad & iPad 2 -->
-  <link rel="apple-touch-icon" sizes="72x72" href="icons/dokoranIcon72x72.png" />
-  <!-- iPad retina display -->
-  <link rel="apple-touch-icon" sizes="144x144" href="icons/dokoranIcon144x144.png" />
-  <!-- iPhone -->
-  <link rel="apple-touch-startup-image" media="(device-width: 320px)" href="icons/dokoranSplash320x460.png" />
-  <!-- iPhone (Retina) -->
-  <link rel="apple-touch-startup-image"
-        media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)"
-        href="icons/dokoranSplash640x920.png" />
+  <link rel="apple-touch-icon" href="icons/57.jpg" />
+  <link rel="apple-touch-icon" sizes="114x114" href="icons/114.jpg" />
+  <link rel="apple-touch-icon" sizes="72x72" href="icons/72.jpg" />
+  <link rel="apple-touch-icon" sizes="144x144" href="icons/144.jpg" />
 	<link href="content/dokoran.min.css" rel="stylesheet" type="text/css" />	  
 	<link href="content/jquery.mobile.structure-1.3.2.min.css" rel="stylesheet" type="text/css" />
 	<link href="content/dokoran.css" rel="stylesheet" type="text/css" />
@@ -31,7 +21,8 @@
 <body>
 	<div id="profile" data-role="page" data-rnc-jspage="profile" data-theme="a">
 		<header data-role="header" data-position="fixed">
-			<h1 id="name"></h1>
+			<a href="artists.html" data-icon="back" data-ajax="false">artists</a>
+			<h1 id="name">PROFIL</h1>
 		</header>
 		<section data-role="content">
 		<div id="profiledetail"></div>
@@ -39,11 +30,11 @@
 		<footer data-role="footer" data-id="footer" data-position="fixed">
 			<div data-role="navbar" class="nav-glyphish-example" data-grid="d">
 			<ul>
-			<li><a href="index.html" id="uvod" data-icon="home" data-ajax="false">úvod</a></li>
-			<li><a href="program.html" data-icon="program" data-ajax="false">program</a></li>
-			<li><a href="artists.html" id="artists" data-icon="star" data-ajax="false">účinkující</a></li>
-			<li><a href="map.html" id="map" data-icon="grid" data-prefetch>mapka</a></li>
-			<li><a href="info.html" id="info" data-icon="info" data-prefetch>info</a></li>
+			<li><a href="index.html" id="uvod" data-icon="home" data-ajax="false">ÚVOD</a></li>
+			<li><a href="program.html" data-icon="bars" data-ajax="false">PROGRAM</a></li>
+			<li><a href="artists.html" id="artists" data-icon="star" data-ajax="false">ARTISTS</a></li>
+			<li><a href="map.html" id="map" data-icon="grid" data-ajax="false">MAPA</a></li>
+			<li><a href="info.html" id="info" data-icon="info" data-prefetch>INFO</a></li>
 			</ul>
 			</div>
 		</footer>
@@ -65,9 +56,12 @@
 					});
 				});
 			});
-			console.log(object);
-			$("#name").append(object.name);
-			$("#profiledetail").append('<div class="fleft"><img id="logo" src="'+object.profileimage+'" /><p id="shortdesc"><span class="'+object.stageid+'">'+object.time+' @ '+object.stage+' stage</span> | '+object.shortdesc+' | <a href="'+object.wwwlink+'">www</a></p><div><p id="profiletext">'+object.profiletext+'</p>');
+			var www = '';
+			if (object.wwwlink!=''){
+				www = ' | <a href="'+object.wwwlink+'">www</a>';
+			}
+			
+			$("#profiledetail").append('<h1>'+object.name+'</h1><p id="shortdesc"><span class="'+object.stageid+'">'+object.time+' @ '+object.stage+' stage</span> | '+object.shortdesc + www + '</p><div class="fleft"><img src="'+object.icoimage+'" width="150" height="150" /></div><p id="profiletext">'+object.profiletext+'</p>');
 		});
 	});
     </script>
