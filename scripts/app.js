@@ -22,8 +22,10 @@ $(document).on('pagebeforeshow', '#index', function(){
 	$.getJSON('content/data/program.json', function(data) {
 	  var items = [];
 	  var currenttime = new Date();
+	  var currenttime2 = new Date();
 	  if (currenttime.getHours()<posledniHodinaNoci){ // od pulnoci do rana je nutne shiftnout datum, populnocni patri pod predchozi den
 		currenttime.setDate(currenttime.getDate()-1);
+		//console.log('timeshift to' + currenttime);		
 	  }
 	  
 	  $.each(data.days, function(key, val) {
@@ -31,7 +33,7 @@ $(document).on('pagebeforeshow', '#index', function(){
 		//console.log(datum.getDate() + ' =? ' +currenttime.getDate());
 		if (datum.getDate()==currenttime.getDate()){
 			//console.log('yes - push');
-			$("#praveprobiha").append('PRÁVĚ PROBÍHÁ');
+			$("#praveprobiha").html('PRÁVĚ PROBÍHÁ');
 			items.push('<table cellpadding="0" cellspacing="0" border="0"><tbody><thead><tr><th scope="col">čas:</th><th scope="col">stage:</th><th scope="col">jméno:</th><th scope="col">popis:</th></tr></thead>');
 			$.each(val.stages, function(key1, val1) {
 				$.each(val1.artists, function(key2, val2) {
@@ -40,31 +42,31 @@ $(document).on('pagebeforeshow', '#index', function(){
 					var datum = parseDatum(val.date, val2.time);
 					var datum2 = new Date(datum);
 					datum2.setMinutes(datum.getMinutes()+val2.duration);
+//console.log(val2.name);					
+					if (currenttime.getHours()<posledniHodinaNoci){ // od pulnoci do rana je nutne shiftnout i to, co zacina pred pulnoci
+//console.log('je po pulnoci');
+						if (datum2.getHours()<datum.getHours()){ //koncert jede pres pulnoc
+//console.log('koncert zacal pred pulnoci a konci po pulnoci = shiftuju datum zacatku a korektuju datum konce');
+							datum.setDate(datum.getDate()-1);
+							datum2.setDate(datum2.getDate()-1);
+						}
+					}
 					
-					if (datum2.getHours()<posledniHodinaNoci){ // od pulnoci do rana je nutne zde shiftnout zase zpet
-						datum.setDate(datum.getDate()-1);
-						datum2.setDate(datum2.getDate()-1);
-					}
-console.log(val2.name);
-console.log(currenttime + ' > ' +datum);
-console.log(currenttime + ' < ' +datum2);					
+
+//console.log(currenttime +' > ' +datum);
+//console.log(currenttime +' < ' +datum2);					
 					if (currenttime>=datum && currenttime<=datum2){
-						items.push('<tr class="'+val1.id+'"><td>'+val2.time+'-'+(pad(datum2.getHours())+':'+pad(datum2.getMinutes()))+'</td><td>'+val1.name+'</td><td>'+val2.name+'</td><td>'+val2.shortdesc+val2.day+'</td></tr>');
-console.log(' YES ');
-					} else {
-console.log(' NOPE ');
+						items.push('<tr class="'+val1.id+'"><td>'+val2.time+'-'+(pad(datum2.getHours())+':'+pad(datum2.getMinutes()))+'</td><td>'+val1.name+'</td><td>'+val2.name+'</td><td>'+val2.shortdesc+'</td></tr>');
+//console.log(' YES ');
 					}
-console.log(' ------------------------------------ ');
+//console.log(' ------------------------------------ ');
 					
 				});
 			});
 			items.push('</tbody></table>');
 		}
-		
 	  });
-	$("#indexartistslist").append(items.join(''));
-		
-		//$('#artistslist').listview('refresh');
+		$("#indexartistslist").html(items.join('')+'<div class="credits">program je aktuální k '+ data.updated +'<br>změny časů vniklé později zde nejsou zohledněny</div>');
 	});
 });
 
@@ -189,12 +191,10 @@ $(document).on('pagebeforeshow', '#program', function(){
 		});
 		itemslist.push('</tbody></table></div>');
 		items = [];
+		
 	  });
-		
-
-		$("#programlist").append(itemslist.join(''));
-		
-		//$('#artistslist').listview('refresh');
+		$("#programlist").html(itemslist.join('')+'<div class="credits">program je aktuální k '+ data.updated +'<br>změny časů vniklé později zde nejsou zohledněny</div>');
+//		$("#programlist").append();
 	});
 });
 	
