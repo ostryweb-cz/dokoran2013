@@ -18,17 +18,6 @@ function   getUrlVar() {
   return  queryUrl.split( '=' );
 }
 
-if (navigator.userAgent.indexOf("Android") != -1)
-{
-    $(document).bind("mobileinit", function()
-    {
-      $.mobile.defaultPageTransition = 'none';
-      $.mobile.defaultDialogTransition = 'none';
-    });
-}
-
-
-
 $(document).on('pagebeforeshow', '#index', function(){
 	$.getJSON('content/data/program.json', function(data) {
 	  var items = [];
