@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <link rel="shortcut icon" href="favicon.ico" />
-  <link rel="apple-touch-icon" href="icons/57.jpg" />
-  <link rel="apple-touch-icon" sizes="114x114" href="icons/114.jpg" />
-  <link rel="apple-touch-icon" sizes="72x72" href="icons/72.jpg" />
+  <link rel="apple-touch-icon" href="icons/icon-57.jpg" />
+  <link rel="apple-touch-icon" sizes="114x114" href="icons/icon-57-2x.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="icons/icon-72.png" />
   <link rel="apple-touch-icon" sizes="144x144" href="icons/144.jpg" />
 	<link href="content/dokoran.min.css" rel="stylesheet" type="text/css" />	  
 	<link href="content/jquery.mobile.structure-1.3.2.min.css" rel="stylesheet" type="text/css" />
@@ -19,9 +19,9 @@
 	<script src="libs/jquery.mobile-1.3.2.min.js" type="text/javascript"></script>
 </head>
 <body>
-	<div id="profile" data-role="page" data-rnc-jspage="profile" data-theme="a">
+	<div id="profile" data-role="page" data-theme="a">
 		<header data-role="header" data-position="fixed">
-			<a href="artists.html" data-icon="back" data-ajax="false">artists</a>
+			<a href="artists.html" data-icon="back">artists</a>
 			<h1 id="name">PROFIL</h1>
 		</header>
 		<section data-role="content">
@@ -30,40 +30,15 @@
 		<footer data-role="footer" data-id="footer" data-position="fixed">
 			<div data-role="navbar" class="nav-glyphish-example" data-grid="d">
 			<ul>
-			<li><a href="index.html" id="uvod" data-icon="home" data-ajax="false">ÚVOD</a></li>
-			<li><a href="program.html" data-icon="bars" data-ajax="false">PROGRAM</a></li>
-			<li><a href="artists.html" id="artists" data-icon="star" data-ajax="false">ARTISTS</a></li>
-			<li><a href="map.html" id="map" data-icon="grid" data-ajax="false">MAPA</a></li>
-			<li><a href="info.html" id="info" data-icon="info" data-prefetch>INFO</a></li>
+			<li><a href="index.html" data-icon="home">ÚVOD</a></li>
+			<li><a href="program.html" data-icon="bars">PROGRAM</a></li>
+			<li><a href="artists.html" data-icon="star">ARTISTS</a></li>
+			<li><a href="map.html" data-icon="grid">MAPA</a></li>
+			<li><a href="info.html" data-icon="info" data-prefetch>INFO</a></li>
 			</ul>
 			</div>
 		</footer>
 	</div>
   <script src="scripts/app.js" type="text/javascript"></script>
-  <script type="text/javascript">
-	$(document).on('pagebeforeshow', '#profile', function(){
-		$.getJSON('content/data/program.json', function(data) {
-			var object; 
-			$.each(data.days, function(key, val) {
-				$.each(val.stages, function(key1, val1) {
-					$.each(val1.artists, function(key2, val2) {
-						if (val2.id === getUrlVar()[1]){
-							val2.stageid = val1.id;
-							val2.stage = val1.name;
-							object = val2;
-							return false;
-						}
-					});
-				});
-			});
-			var www = '';
-			if (object.wwwlink!=''){
-				www = ' | <a href="'+object.wwwlink+'">www</a>';
-			}
-			
-			$("#profiledetail").append('<h1>'+object.name+'</h1><p id="shortdesc"><span class="'+object.stageid+'">'+object.time+' @ '+object.stage+' stage</span> | '+object.shortdesc + www + '</p><div class="fleft"><img src="'+object.icoimage+'" width="150" height="150" /></div><p id="profiletext">'+object.profiletext+'</p>');
-		});
-	});
-    </script>
 </body>
 </html>
