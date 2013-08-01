@@ -18,6 +18,14 @@ function   getUrlVar() {
   return  queryUrl.split( '=' );
 }
 
+if (navigator.userAgent.indexOf("Android") != -1)
+{
+    $(document).bind("mobileinit", function()
+    {
+      $.mobile.defaultPageTransition = 'none';
+      $.mobile.defaultDialogTransition = 'none';
+    });
+}
 
 
 
@@ -261,13 +269,4 @@ $(document).on('pagebeforeshow', '#profile', function(){
 		}
 		$("#profiledetail").append('<h1>'+object.name+'</h1><p id="shortdesc"><span class="'+object.stageid+'">'+object.day + ' ' +object.time+' @ '+object.stage+' stage</span> | '+object.shortdesc + www + '</p><div class="fleft"><img src="'+object.icoimage+'" width="150" height="150" /></div><p id="profiletext">'+object.profiletext+'</p>');
 	});
-});
-
-$(document).bind("mobileinit", function()
-{
-   if (navigator.userAgent.indexOf("Android") != -1)
-   {
-     $.mobile.defaultPageTransition = 'none';
-     $.mobile.defaultDialogTransition = 'none';
-   }
 });
