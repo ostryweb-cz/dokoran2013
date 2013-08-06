@@ -1,6 +1,6 @@
 {
     "name": "Dokořán 2013",
-	"updated": "1.8.2013 17:00",
+	"updated": "5.8.2013 10:00",
     "days": [
         {
             "id": "ctvrtek",
@@ -112,17 +112,16 @@
 
                         },
                         {
-                            "id": "flash",
-                            "name": "Flash the Readies",
+                            "id": "vees",
+                            "name": "Vees",
                             "time": "19:15",
                             "duration": 45,
-       "wwwlink": "http://bandzone.cz/flashthereadies",
+       "wwwlink": "http://bandzone.cz/vees",
        "profileimage": "",
-       "icoimage": "content/images/artists/flashthereadies-150.jpg",
-       "profiletext": "Lehké zklidnění a prostor k uvolnění nám zprostředkují již 7 let hrající nadšenci z Olomouce. Velmi úspěšně si pohrávají někde na hranici alternativního rocku, psychadelic popu, možná až k post rocku. Ve tvorbě je znát barvitá historie kapely, ať už „klinické smrti“ v podobě výměny některých členů, spousty koncertů, dvě EP či snad velká, opravdová deska. Budou se na Vás těšit v pátek od 19:15 na Live Stage.",
-       "shortdesc": "post rock",
-       "origin": "Olomouc"
-
+       "icoimage": "content/images/artists/vees-150.jpg",
+       "profiletext": "Mladá indie/rock'n'rollová tří-členná kapela z Českých Budějovic. Kapela má složení kytara, basa, bicí a funguje od roku 2006. Jejich naprosté zapálení a skromný přístup ve spojení s velmi dobrým ovládnutím nástrojů, které není dnes zdaleka pravidlem, nese velké ovoce a tato kapela roste každým dnem. Hlavně se ale musí zažít přímo naživo. Live shows jsou velice energické a bubeník v této kapele není jen ten \"pomocník vzadu\". Není to žádná kopírka, ani revival, je to tou současná autentická divoká kytarovka, která v ČR nemá obdobu ani konkurenci.",
+       "shortdesc": "indie",
+       "origin": "České Budějovice"
                         },
                         {
                             "id": "ucee",
@@ -437,17 +436,16 @@
 
                         },
                         {
-                            "id": "vees",
-                            "name": "Vees",
+							"id": "flash",
+                            "name": "Flash the Readies",
                             "time": "19:00",
                             "duration": 50,
-       "wwwlink": "http://bandzone.cz/vees",
+       "wwwlink": "http://bandzone.cz/flashthereadies",
        "profileimage": "",
-       "icoimage": "content/images/artists/vees-150.jpg",
-       "profiletext": "Mladá indie/rock'n'rollová tří-členná kapela z Českých Budějovic. Kapela má složení kytara, basa, bicí a funguje od roku 2006. Jejich naprosté zapálení a skromný přístup ve spojení s velmi dobrým ovládnutím nástrojů, které není dnes zdaleka pravidlem, nese velké ovoce a tato kapela roste každým dnem. Hlavně se ale musí zažít přímo naživo. Live shows jsou velice energické a bubeník v této kapele není jen ten \"pomocník vzadu\". Není to žádná kopírka, ani revival, je to tou současná autentická divoká kytarovka, která v ČR nemá obdobu ani konkurenci.",
-       "shortdesc": "indie",
-       "origin": "České Budějovice"
-
+       "icoimage": "content/images/artists/flashthereadies-150.jpg",
+       "profiletext": "Lehké zklidnění a prostor k uvolnění nám zprostředkují již 7 let hrající nadšenci z Olomouce. Velmi úspěšně si pohrávají někde na hranici alternativního rocku, psychadelic popu, možná až k post rocku. Ve tvorbě je znát barvitá historie kapely, ať už „klinické smrti“ v podobě výměny některých členů, spousty koncertů, dvě EP či snad velká, opravdová deska. Budou se na Vás těšit v sobotu od 19:00 na Live Stage.",
+       "shortdesc": "post rock",
+       "origin": "Olomouc"
                         },
                         {
                             "id": "jamaram",

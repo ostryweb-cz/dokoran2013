@@ -66,7 +66,7 @@ $(document).on('pagebeforeshow', '#index', function(){
 			items.push('</tbody></table>');
 		}
 	  });
-		$("#indexartistslist").html(items.join('')+'<div class="credits">program je aktuální k '+ data.updated +'<br>změny časů vniklé později zde nejsou zohledněny</div>');
+		$("#indexartistslist").html(items.join('')+'<div class="credits">Program je aktuální k '+ data.updated +'<br>změny časů vzniklé později zde nejsou zohledněny.</div>');
 	});
 });
 
@@ -193,7 +193,7 @@ $(document).on('pagebeforeshow', '#program', function(){
 		items = [];
 		
 	  });
-		$("#programlist").html(itemslist.join('')+'<div class="credits">program je aktuální k '+ data.updated +'<br>změny časů vniklé později zde nejsou zohledněny</div>');
+		$("#programlist").html(itemslist.join('')+'<div class="credits">Program je aktuální k '+ data.updated +'<br>změny časů vzniklé později zde nejsou zohledněny.</div>');
 //		$("#programlist").append();
 	});
 });
