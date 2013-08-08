@@ -1,6 +1,6 @@
 {
     "name": "Dokořán 2013",
-	"updated": "5.8.2013 10:00",
+	"updated": "8.8.2013 5:00",
     "days": [
         {
             "id": "ctvrtek",
@@ -354,7 +354,7 @@
        "wwwlink": "http://cirkuslevitare.cz",
        "profileimage": "",
        "icoimage": "content/images/artists/cirkus-le-vitare-150.jpg",
-       "profiletext": "Cirkus je láska – láska je cirkus. Cirkusová telenovela s neustále se vyvíjející zápletkou. Příběh lásky mladého chlapce ke krásné tanečnici, v němž se prolíná budoucnost s přítomností a časová linka se stává pružnou jako trampolína. Nic však není tak snadné, jak se na první pohled jeví. Ještě, když se do příběhu připletou další roztodivné postavy. Však to znáte…<br /><br />LeVitare je soubor lidí zapálených do žonglování, hudby, tance a pohybu všeobecně, lidí, kteří mají rádi svět nového cirkusu a snaží se v něm sami najít a obstát.   Vycházejí přitom ze zkušeností, které nasbírali na žonglérských, tanečních, pantomimických a divadelních workshopech a také na mnoha vystoupeních, která uskutečňují i sami a od roku 2010 v rámci Cirkusu LeVitare společně.<br /><br />Hledají originální poetiku, ve které se budou cítit dobře diváci stejně jako účinkující.",
+       "profiletext": "Cirkus je láska – láska je cirkus. Cirkusová telenovela s neustále se vyvíjející zápletkou. Příběh lásky mladého chlapce ke krásné tanečnici, v němž se prolíná budoucnost s přítomností a časová linka se stává pružnou jako trampolína. Nic však není tak snadné, jak se na první pohled jeví. Ještě, když se do příběhu připletou další roztodivné postavy. Však to znáte…<br /><br />LeVitare je soubor lidí zapálených do žonglování, hudby, tance a pohybu všeobecně, lidí, kteří mají rádi svět nového cirkusu a snaží se v něm sami najít a obstát. Vycházejí přitom ze zkušeností, které nasbírali na žonglérských, tanečních, pantomimických a divadelních workshopech a také na mnoha vystoupeních, která uskutečňují i sami a od roku 2010 v rámci Cirkusu LeVitare společně.<br /><br />Hledají originální poetiku, ve které se budou cítit dobře diváci stejně jako účinkující.<br />Vzkaz pro návštěvníky Festival Dokořán 2013:<br /><br />Cirkus Láska je událostí, která se děje jenom párkrát za život. Do vašeho města přijeli cirkusoví senioři, principál Georgio Superiore a jeho žena Magenta Mascarpone, kteří hledají nejen vhodného následovníka cirkusové tradice, ale také vhodného manžela pro svou úžasnou vnučku Andromedu. Za virtuózního doprovodu živého piána, se vám představí plejáda uchazečů o ruku krásné Andromedy a nikdo dopředu neví, koho si vybere. Jak bývá u LeVitare zvykem, pohybové dovednosti pobaví všechny generace, ale slovní humor opět míří ke starším a pozorným divákům.",
 "shortdesc": "cirkus",
 "origin": ""
 
@@ -734,15 +734,15 @@
 
                         },
                         {
-                            "id": "cucky",
-                            "name": "Divadlo na cucky / Všichni Teigeho muži",
+                            "id": "slovosedi",
+                            "name": "Slovosledi / Všichni Teigeho muži",
                             "time": "19:30",
                             "duration": 75,
-       "wwwlink": "http://www.divadlonacucky.cz/",
+       "wwwlink": "http://www.story-telling.cz/",
        "profileimage": "",
        "icoimage": "content/images/artists/divadlo-na-cucky-150.jpeg",
-       "profiletext": "Autorská inscenace vytvořená metodou storytellingu. Herci přestávají hrát a stávají se autory a vypravěči příběhů, vrací se a znovuobjevují tradici vyprávění.<br /><br />20. léta 20. století.<br />Mondénní a neodolatelná asonance se snoubí s metaforou, tím galantním světákem.<br />Když zazvoní třicet budíčků, probouzí se umění života – poetismus a všichni jeho muži.<br />Jací vlastně byli?<br />\"Na tváři lehký žal, hluboký v srdci smích.\"<br />Možná tvořili denně a nebo jen na cestách. Psali si básně tužkou na hospodské účtenky nebo jen perem v poklidu své pracovny. Ženy je nejspíš obdivovaly a dost možná i velmi milovaly.<br />Jak vlastně žili, když poetismus mizel a oni byli ještě tak mladí?<br />Karel Teige, Jaroslav Seifert, Konstantin Biebl, Vítězslav Nezval, Vladimír Holan a Toyen.<br /><br />Divadlo na cucky je nezávislé seskupení amatérských a profesionálních tvůrců. Ve své dramaturgii se soustředí buď na ryze autorské projekty čerpající z rozmanitých potřeb souboru (tvorba vycházející z tématu, konkrétního místa / prostoru, či žánru, případně autorské dramatizace), anebo na objevnou dramaturgii u nás nepříliš uváděných textů (Jon Fosse, Laura de Weck, Sarah Kane, Gerhilda Steinbuch). Inscenace realizuje nejen v \"klasickém\" divadelním prostoru, ale také v hospodách (Kabaret Kaldera), v plenéru (HRA na život, Poiésis) nebo zapadlých místech (site-specific projekty Nukleární periferie, HRAna šílenství). Krom toho se divadlo soustředí i na realizaci divadelních dílen a to formou tzv. \"otevřených workshopů Divadla na cucky\", přístupných širší veřejnosti. Další aktivitou je pořádání scénických čtení.",
-       "shortdesc": "inscenace",
+       "profiletext": "Autorská inscenace vytvořená metodou storytellingu. Herci přestávají hrát a stávají se autory a vypravěči příběhů, vrací se a znovuobjevují tradici vyprávění.<br />20. léta 20. století.<br />Mondénní a neodolatelná asonance se snoubí s metaforou, tím galantním světákem.<br />Když zazvoní třicet budíčků, probouzí se umění života – poetismus a všichni jeho muži.<br />Jací vlastně byli?<br />\"Na tváři lehký žal, hluboký v srdci smích.\"<br />Možná tvořili denně a nebo jen na cestách. Psali si básně tužkou na hospodské účtenky nebo jen perem v poklidu své pracovny. Ženy je nejspíš obdivovaly a dost možná i velmi milovaly.<br />Jak vlastně žili, když poetismus mizel a oni byli ještě tak mladí?<br />Karel Teige, Jaroslav Seifert, Konstantin Biebl, Vítězslav Nezval, Vladimír Holan a Toyen.<br /><br />Soubor Slovolsedi zaštiťuje občanské sdružení Storytelling, jež se jako první v České republice cíleně věnuje metodě storytellingu podle norské školy.<br />A oč to vlastně ve storytellingu kráčí? Je to specifická divadelní disciplína, která využívá mnoha druhů cvičení, her a především představivosti vypravěčů, kteří jsou zároveň autory a interprety příběhu.<br />Umožňuje jim stát se napůl spisovateli a napůl herci, vytvořit neopakovatelnou atmosféru a malovat své příběhy před zraky diváků, aby si je a emoce s nimi spojené mohli odnést při odchodu ze sálu. Storytelling se však v žádném případě neváže pouze na divadelní prostory, naopak mu svědčí nezvyklá místa, která mohou podporovat atmosféru příběhu. Potemnělý festivalový areál tedy bude tím správným místem...",
+       "shortdesc": "storytelling",
        "origin": ""
 
                         },
