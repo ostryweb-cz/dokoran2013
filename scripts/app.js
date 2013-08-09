@@ -187,7 +187,7 @@ $(document).on('pagebeforeshow', '#program', function(){
 		itemslist.push('<thead><tr><th scope="col" class="cas">čas:</th><th scope="col" class="jmeno">jméno:</th><th scope="col" class="popis">popis:</th></tr></thead>');
 		
 		$.each(items, function(key, val) {
-			itemslist.push('<tr class="'+val.stage+'"><td>'+val.time+'-'+val.end+'</td><td><a href="artistdetail.html?id=' + val.id + '" data-ajax="false">'+val.name+'</a></td><td>'+ val.shortdesc +'</td></tr>');
+			itemslist.push('<tr class="'+val.stage+'"><td>'+val.time+'-'+val.end+'</td><td><a href="artistdetail.html?id=' + val.id + '" data-transition="none">'+val.name+'</a></td><td>'+ val.shortdesc +'</td></tr>');
 		});
 		itemslist.push('</tbody></table></div>');
 		items = [];
@@ -217,7 +217,7 @@ $(document).on('pagebeforeshow', '#artists', function(){
 				if (val.icoimage!=''){
 					iconhtml='<img src="'+ val.icoimage +'" width="73" />';
 				}
-				itemslist.push('<li><a href="artistdetail.html?id=' + val.id + '">'+iconhtml+'<h3>'+ val.name +'</h3><p>'+ val.shortdesc +'</p></a></ul>');
+				itemslist.push('<li><a href="artistdetail.html?id=' + val.id + '" data-transition="none">'+iconhtml+'<h3>'+ val.name +'</h3><p>'+ val.shortdesc +'</p></a></ul>');
 			});
 			$("#artistslist").append(itemslist.join(''));
 			$('#artistslist').listview('refresh');
