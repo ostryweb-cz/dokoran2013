@@ -493,7 +493,7 @@
                             "id": "petit",
                             "name": "Petit",
                             "time": "17:00",
-                            "duration": 90,
+                            "duration": 120,
        "wwwlink": "",
        "profileimage": "",
        "icoimage": "content/images/artists/petit-150.jpg",
@@ -505,8 +505,8 @@
                         {
                             "id": "yadel",
                             "name": "Yadel",
-                            "time": "18:30",
-                            "duration": 90,
+                            "time": "22:00",
+                            "duration": 60,
        "wwwlink": "https://www.facebook.com/Lazytempo",
        "profileimage": "",
        "icoimage": "content/images/artists/yadel-150.jpg",
@@ -518,8 +518,8 @@
                         {
                             "id": "zlatomil",
                             "name": "Zlatomil",
-                            "time": "20:00",
-                            "duration": 60,
+                            "time": "19:00",
+                            "duration": 120,
        "wwwlink": "https://www.facebook.com/zlatomil",
        "profileimage": "",
        "icoimage": "content/images/artists/zlatomil-150.jpg",
@@ -538,19 +538,6 @@
        "icoimage": "content/images/artists/dr-balkan-150.jpg",
        "profiletext": "Dr. Balkan je člen Bassta Fidli Crew a specialista na pohybové potíže, nehybnosti kloubů a rytmickou gymnastiku. Využívá léčebné prostředky od předních kapacit balkánu, které míchá s tradiční slováckou medicínou a globálními bylinnými výtažky. Mezi nejúčinější tinktůry Dr. Balkanovy léčby patří BalkanBeatz, Urban Klezmer, Folkstep a Turbofolk.",
        "shortdesc": "balkan",
-       "origin": ""
-
-                        },
-                        {
-                            "id": "dscdrmr",
-                            "name": "DSCDRMR",
-                            "time": "22:00",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/dscdrm-150.jpg",
-       "profiletext": "Jako zástupce 142bpm Crew se nám letos představí dj DSCDRMR. Jako velký milovník bass music hraje napříč žánry house, funky, dubstep a garage. Můžete se tedy těšit na svěží set, který roztačil střevíce nejednoho tanečního večírku.",
-       "shortdesc": "bass",
        "origin": ""
 
                         },
