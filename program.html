@@ -7,13 +7,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<link rel="shortcut icon" href="favicon.ico" />
-	<link rel="apple-touch-icon" href="icons/57.jpg" />
-	<link rel="apple-touch-icon" sizes="114x114" href="icons/114.jpg" />
-	<link rel="apple-touch-icon" sizes="72x72" href="icons/72.jpg" />
+	<link rel="apple-touch-icon" href="icons/icon-57.jpg" />
+	<link rel="apple-touch-icon" sizes="114x114" href="icons/icon-57-2x.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="icons/icon-72.png" />
 	<link rel="apple-touch-icon" sizes="144x144" href="icons/144.jpg" />
 	<link href="content/dokoran.min.css" rel="stylesheet" type="text/css" />	  
 	<link href="content/dokoran.css" rel="stylesheet" type="text/css" />
-	<link href="content/program.css" rel="stylesheet" type="text/css" />
 	<link href="content/jquery.mobile.structure-1.3.2.min.css" rel="stylesheet" type="text/css" />
 	<script src="libs/cordova.js" type="text/javascript"></script>
 	<script src="libs/jquery-1.10.2.min.js" type="text/javascript"></script>
@@ -22,7 +21,7 @@
 <body> 
  <div data-role="page" id="program" data-theme="a">
 	<div data-role="header">
-		<a href="index.html" data-icon="back" data-ajax="false">zpět</a>
+		<a href="index.html" data-icon="back">zpět</a>
 		<h1>PROGRAM</h1>
 	</div><!-- /header -->
 	<div data-role="navbar">
@@ -42,156 +41,19 @@
 	<div data-role="content">	
 		<div id="programlist"></div>
 	</div><!-- /content -->
-    
-    <div class="credits">
-    	aplikace: <a href="http://www.ostryweb.cz">Ostrý web</a>, grafika: <a href="http://www.jirichlebus.cz">Jiří Chlebus</a><br>
-    </div>
-
-
 	<footer data-role="footer" data-id="footer" data-position="fixed">
 		<div data-role="navbar" class="nav-glyphish-example" data-grid="d">
 		<ul>
-			<li><a href="index.html" id="uvod" data-icon="home" data-ajax="false">ÚVOD</a></li>
-			<li><a href="program.html" data-icon="bars" class="ui-btn-active ui-state-persist" data-ajax="false">PROGRAM</a></li>
-			<li><a href="artists.html" id="artists" data-icon="star" data-ajax="false" data-prefetch>ARTISTS</a></li>
-			<li><a href="map.html" id="map" data-icon="grid" data-ajax="false">MAPA</a></li>
-			<li><a href="info.html" id="info" data-icon="info" data-prefetch>INFO</a></li>
+			<li><a href="index.html" data-icon="home">ÚVOD</a></li>
+			<li><a href="program.html" data-icon="bars" class="ui-btn-active ui-state-persist">PROGRAM</a></li>
+			<li><a href="artists.html" data-icon="star" data-prefetch>ARTISTS</a></li>
+			<li><a href="map.html" data-icon="grid">MAPA</a></li>
+			<li><a href="info.html" data-icon="info" data-prefetch>INFO</a></li>
 		</ul>
 		</div>
 	</footer>
 
 </div><!-- /page -->
 	<script src="scripts/app.js" type="text/javascript"></script>
-	<script type="text/javascript">
- 	  
-	$(document).on('pagebeforeshow', '#program', function(){
-       $( "a.live" ).click(function() {
-          $( "tr.live" ).toggleClass( "hideme" );
-          $( "a.live" ).toggleClass( "nogo" );
-		  if ($( "a.live .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.live .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.live .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-        $( "a.club" ).click(function() {
-          $( "tr.club" ).toggleClass( "hideme" );
-          $( "a.club" ).toggleClass( "nogo" );
-		  if ($( "a.club .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.club .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.club .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-        $( "a.alter" ).click(function() {
-          $( "tr.alter" ).toggleClass( "hideme" );
-          $( "a.alter" ).toggleClass( "nogo" );
-		   if ($( "a.alter .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.alter .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.alter .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-        $( "a.theatre" ).click(function() {
-          $( "tr.theatre" ).toggleClass( "hideme" );
-          $( "a.theatre" ).toggleClass( "nogo" );
-		   if ($( "a.theatre .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.theatre .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.theatre .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-		$( "a.ctvrtek" ).click(function() {
-          $( "#ctvrtek" ).toggleClass( "hideme" );
-          $( "a.ctvrtek" ).toggleClass( "nogo" );
-		  if ($( "a.ctvrtek .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.ctvrtek .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.ctvrtek .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-		$( "a.patek" ).click(function() {
-          $( "#patek" ).toggleClass( "hideme" );
-          $( "a.patek" ).toggleClass( "nogo" );
-		  if ($( "a.patek .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.patek .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.patek .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-		$( "a.sobota" ).click(function() {
-          $( "#sobota" ).toggleClass( "hideme" );
-          $( "a.sobota" ).toggleClass( "nogo" );
-		  if ($( "a.sobota .ui-icon" ).css('background-position')=="-73px 50%"){
-			$( "a.sobota .ui-icon" ).css('background-position', "-252px 50%");
-		  } else {
-			$( "a.sobota .ui-icon" ).css('background-position', "-73px 50%");
-		  }
-          return false;
-        });
-		
-	
-		$.getJSON('content/data/program.json', function(data) {
-		  var items = [];
-		  var itemslist = [];
-		  var dayid = '';
-		  
-		  $.each(data.days, function(key, val) {
-			$.each(val.stages, function(key1, val1) {
-				$.each(val1.artists, function(key2, val2) {
-					val2.stage = val1.id; //pridavam info o stagi
-					
-					//console.log(val2.name + ' ma cas: ' + val2.time );
-					var datum = parseDatum(val.date, val2.time);
-					val2.timeobj = datum; //pridavam objekt casu
-					
-					var datum2 = new Date(datum);
-					datum2.setMinutes(datum.getMinutes()+val2.duration);
-					
-					val2.end = pad(datum2.getHours())+':'+pad(datum2.getMinutes()); //pridavam info o konci
-					items.push(val2);
-				});
-			});
-			
-			items.sort(function (a, b) {
-			var casA = new Date(a.timeobj);
-			var casB = new Date(b.timeobj);
-			
-			
-			if (casA.getHours()<posledniHodinaNoci){
-				//console.log("upravuju: "+a.name + ' pac hours je ' + a.timeobj.getHours() );
-				casA.setHours(a.timeobj.getHours()+24);
-			}
-			if (casB.getHours()<posledniHodinaNoci){
-				//console.log("upravuju: "+b.name + ' pac hours je ' + b.timeobj.getHours() );
-				casB.setHours(b.timeobj.getHours()+24);
-				
-			}
-			
-			return casA - casB });
-			
-			itemslist.push('<div id="'+val.id+'"><h2>'+val.name+' '+val.date+':</h2><table cellpadding="0" cellspacing="0" border="0"><tbody>');
-			itemslist.push('<thead><tr><th scope="col" class="cas">čas:</th><th scope="col" class="jmeno">jméno:</th><th scope="col" class="popis">popis:</th></tr></thead>');
-			
-			$.each(items, function(key, val) {
-				itemslist.push('<tr class="'+val.stage+'"><td>'+val.time+'-'+val.end+'</td><td><a href="artistdetail.html?id=' + val.id + '" data-ajax="false">'+val.name+'</a></td><td>'+ val.shortdesc +'</td></tr>');
-			});
-			itemslist.push('</tbody></table></div>');
-			items = [];
-		  });
-			
-
-			$("#programlist").append(itemslist.join(''));
-			
-			//$('#artistslist').listview('refresh');
-		});
-	});
-    </script>
 </body>
 </html>
