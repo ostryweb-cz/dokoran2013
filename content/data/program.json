@@ -1,767 +1,596 @@
 {
-    "name": "Dokořán 2013",
-	"updated": "5.8.2013 10:00",
+    "name": "UFO BUFO",
+    "updated": "19.8.2013 10:00",
     "days": [
         {
-            "id": "ctvrtek",
-   "name": "ČTVRTEK",
-            "date": "8.8.2013",
-            "stages": [
-                {
-                    "id": "live",
-                    "name": "Live",
-                    "artists": [
-                        {
-                            "id": "gangsters",
-                            "name": "Gangsters of Swing Orchestra",
-                            "time": "19:00",
-                            "duration": 60,
-       "wwwlink": "http://www.goso.cz/",
-       "profileimage": "",
-       "icoimage": "content/images/artists/gangsters-of-swing-orchestra-150.jpg",
-       "profiletext": "Nejprve se podívejme se alespoň trochu hlouběji do historie. Samotnému big bandu Gangsters of Swing Orchestra předcházelo menší uskupení, které neslo název Swing Band a bylo zřizováno ZUŠ J. A. Komenského ve Studénce.Tímto bandem prošla celá řada muzikantů, z nichž se mnozí stali studenty/absolventy konzervatoří, absolvovali jsme mnoho koncertů a soutěží na území České republiky a Polska, ale hlavně bylo zde pevné jádro pro vznik našeho big bandu. Protože čas je neúprosný, odrůstáme žákovským lavicím a v průměru hrajeme lépe než průměrné orchestry o počtu členů větším než malém, řešili jsme, jak udržet partu muzikantů a kamarádů - nenapadlo nás nic jiného, než založit občanské sdružení Gangsters of Swing Orchestra.<br/><br/>Název orchestru není náhodný, protože orchestry tohoto ražení hrávaly v minulém století za doby prohibice v tančírnách, kde alkohol tekl proudem, a muzikanti byli placeni gangstery z výtěžku z prodeje alkoholu. Ono uživit dvacet krků není jednoduché ani dnes, a zlé jazyky tvrdí, že kdybychom hráli jen za dopravné a ná(áá)ležité občerstvení, nejeden podnik bychom zruinovali.<br/><br/>Prostředí tančíren (náleven) bychom rádi přenesli i k Vám, a to skladbami z éry prohibice (USA 1919-1933) a zlatého věku swingu, doby zrodu velkých pěveckých hvězd typu Franka Sinatry. Pobavit můžeme rock'n'rollem, televisními a filmovými hity, netradičními aranžemi skladeb, a když bude třeba, umíme i polku nebo valčík. Snažíme se vybírat repertoár tak, aby bavil nejen nás, ale i naše posluchače či tanečníky. Tančit s námi můžete jive, cha-chu, waltz, slowfox, foxtrot, tango aj.<br/><br/>Gangsters of Swing Orchestra existuje od podzimu 2011, přesto máme první krůčky za sebou a rádi bychom si i trochu poskočili, a nezbývá než přát si, abyste si poskočili s námi.",
-       "shortdesc": "jazz",
-       "origin": "Jistebník"
-                        },
-                        {
-                            "id": "talkshow",
-                            "name": "Talkshow [SK]",
-                            "time": "20:20",
-                            "duration": 40,
-       "wwwlink": "https://www.facebook.com/Talkshowmusic",
-       "profileimage": "",
-       "icoimage": "content/images/artists/talkshow-150.jpg",
-       "profiletext": "Skupina TALKSHOW vznikla v dubnu 2008 v Bratislavě. Po necelých 2 letech fungování se probojovala na špičku domácí alternativní scény a míří i do zahraničí. Na léto 2010 plánují vystoupení na Slovensku, v Česku a v Rakousku. V nedávno realizované posluchačské anketě Rádia FM „Rádio Head Awards“ se tato kapela dosstala do finální pětky v kategorii Nováček roku. V listopadu 2009 hráli spolu s britskými The Horrors ve Vídni, na Slovensku a v Česku absolvovali desítky koncertů s Lavagance nebo Swan Bride. Jejich písnička Try zazněla ve filmu Fabrika smrti a český hudební časopis Filter dokonce označil TALKSHOW za objev roku. Singl Try, These lights, Stella, 3 nebo Turn off the radio se postupně dostaly do top 10 v éteru Rádia FM.",
-       "shortdesc": "indie",
-       "origin": "Bratislava"
-                        },
-                        {
-                            "id": "dolls",
-                            "name": "Dolls in the factory",
-                            "time": "21:15",
-                            "duration": 45,
-       "wwwlink": "http://www.facebook.com/dollsinthefactory",
-       "profileimage": "",
-       "icoimage": "content/images/artists/dolls-in-the-factory-150.png",
-       "profiletext": "Máte chuť se zavlnit, pohoupat se na vlnách jemného pop-rocku a nechat si pohladit bubínky něčím příjemným? Právě pro Vás a nejen pro Vás pak tedy přijedou Dolls In The Factory z nedalekého Frýdku-Místku. Mají za sebou již spoustu vydařených koncertů, i když jsou poměrně čerství na hudební scéně. Přijde se na ně podívat ve čtvrtek 8.8. na Live Stage.",
-       "shortdesc": "pop-rock",
-       "origin": "Frýdek-Místek"
-                        },
-                        {
-                            "id": "elements",
-                            "name": "The Elements [SK]",
-                            "time": "22:15",
-                            "duration": 45,
-       "wwwlink": "http://bandzone.cz/theelements",
-       "profileimage": "",
-       "icoimage": "content/images/artists/the-elements-150.jpg",
-       "profiletext": "Rocková skupina The Elements z Čierneho Balogu je známá především svými dynamickými, progresivně laděnými skladbami, které nenechají chladným žádné publikum.<br /><br />Kapela začala koncertovat roku 2001, avšak první výraznější zviditelnění přišlo až roku 2005 s vydáním debutového alba Out Of The Dark, které jasně vytyčilo jejich hudební směr. Elements naplno jdou vlastní cestou, nevyhýbají se přitom melodickým pasážím, prstolomným sólům, pořádnou náloží bicích nástrojů, ani tvrdším kytarovým riffům. V roce 2008 vydali svoje druhé album Inner Fight For Freedom, které je výsledkem práce se spoluproducentem Robem Čunderlíkem. Mezi největší úspěchy kapely patří vítězství v soutěži Rocková Olomouc 2010, třetí místo v soutěži Košický zlatý poklad 2009 a umístění alba Inner Fight For Freedom v první desítce nejlepších desek v anketě Album roka Rádia FM (2008).  V současné době kapela natáčí své třetí studiové album.",
-       "shortdesc": "rock-progressive",
-       "origin": "Čierny Balog"
-
-                        },
-                        {
-                            "id": "fall",
-                            "name": "The Fall of Ghostface",
-                            "time": "23:15",
-                            "duration": 45,
-       "wwwlink": "http://bandzone.cz/ghostface",
-       "profileimage": "",
-       "icoimage": "content/images/artists/thefallofghostface-150.jpg",
-       "profiletext": "The Fall Of Ghostface je šestičlenná metalcorová kapela založená v roce 2008 v Opavě v České republice. Hraje ve složení Hana Šindlerová (zpěv), Jan Pater (scream), Michal Oslanec (kytara), Petr Janoš (kytara), Adam Uvíra (basová kytara) a Radim Kaller (bicí).<br/><br/>Kromě autentických a propracovaných kytarových linek i divokých až vtipných sól Mikeše a Šonaje a precizních Radimových bicích se kapela opírá o netradiční propojení ženského vokálu Haňi s tímto tvrdým žánrem. Nebojí se ani experimentů v oblasti elektronické hudby, syntetické aranže jsou umírněnou součástí většiny jejích skladeb. Ty má po instrumentální hudební stránce na svědomí především kytarista Mikeš (Michal) v poslední době kolaborující s basákem Adamem, který přidáním elektroniky dopomohl k vytvoření nové tváře TFOG. Její novost je dána i příchodem posledního  člena sestavy Ozzym (Jan), který na sebe vzal břemeno  screamování, o které se doposud dělil Mikeš s Haňou. Oběma tak umožnil lépe se věnovat jejich hlavním dovednostem a sám do kapely vnesl novou energii, emočně vypjatý scream a své nové nápady a myšlenky.<br/><br/>Celá sestava drží pohromadě nejen díky společnému hudebnímu zájmu, ale také díky skvělému přátelství, které mezi sebou její členové chovají. Ačkoliv všichni považují svou práci v kapele za vážnou záležitost, sami si ze sebe dělají legraci. To se odráží i v dojmu, který za sebou zanechávají.<br/><br/>Jejich live show je plná pohybu a fyzického i psychického vypětí. I přes naléhavé kytary a  texty  se  závažnou  tématikou se  ve  skladbách  motá  jakýsi  hudební šotek, který v písních vytváří malé pastičky na posluchače. Ne nadarmo se jeden ze songů na jejich EP Notes to Enhance jmenuje It’s a Trap. Tak, kdo ji najde?",
-       "shortdesc": "metalcore",
-       "origin": "Opava"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "patek",
-   "name": "PÁTEK",
-            "date": "9.8.2013",
+            "name": "PÁTEK",
+            "date": "23.8.2013",
             "stages": [
                 {
-                    "id": "live",
-                    "name": "Live",
+                    "id": "main",
+                    "name": "Main",
                     "artists": [
                         {
-                            "id": "places",
-                            "name": "The Places",
-                            "time": "16:15",
-                            "duration": 45,
-       "wwwlink": "http://bandzone.cz/theplaces",
-       "profileimage": "",
-       "icoimage": "content/images/artists/the-places-150.jpg",
-       "profiletext": "Kapela z Ostravy se formovala od roku 2010 a stihla za tu dobu nahrát dvě dema s názvem „Never Be Alone“ a „In Our Alley“, odehrát spousty koncertů a zúčastnit se několika soutěží (např. Boomcup 2. místo, ProRock atd.). V současné době hrají ve stálé šestici muzikantů a do zvuku kapely se promítá především tvorba Coldplay nebo Oasis.",
-       "shortdesc": "alternative",
-       "origin": "Ostrava"
-
+                            "id": "ekldarj",
+                            "name": "Eklektik Fluidum vs Darjeel",
+                            "time": "18:00",
+                            "duration": 150,
+                            "wwwlink": "https://soundcloud.com/eklektik_fluidum",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "Fascinated by unique raw sound of drum and bass and powerful atmosphere of the first dvoika.troika parties in ostrava (1999), Eklektik Fluidum started playing drum and bass and promoting parties in his city (2001), which finaly led to the birth of basstillbeat crew (2002). hc nuskool, synthetic fractures, bugbears, amens & atmospheric cosmos were significant for his sets, but he was also collecting downtempo vinyls, especially from his beloved ninjatune label and czech god of belcanto karel gott ;). after several years filled with enthusiasm for dnb scene and of playing in clubs all over czech republic with people like: optiv/cause4concern, raw.full/ill.skillz, n.phect, mindscape, jade, crossfire, grooveside project, duster, axiom, rusher and czech dnb elite like: morebeat, no money, pixie, dvoika.troika crew etc. he felt bounded by the limits of one genre and began (2006) to explore alternative ways how to express his deep passion for music - the result is eklektik fluidum... melting pot of 70-170 bmp wonkadelic funkyglitched bassline psynergy without any genre limits :)",
+                            "shortdesc": "",
+                            "booking": "Bass:till:beat",
+                            "origin": "cz"
                         },
                         {
-                            "id": "ajdontker",
-                            "name": "Ajdontker",
-                            "time": "17:45",
-                            "duration": 45,
-       "wwwlink": "http://bandzone.cz/ajdontker",
-       "profileimage": "",
-       "icoimage": "content/images/artists/ajdontker-150.jpg",
-       "profiletext": "Tato studentská rocková kapela z Havířova vznikla v roce 2010 a název je odvozen z anglického I don´t care. V roce 2012 vydali své první demo s názvem Hlavní svět, které je překvapivě vyzrálým počinem, ať už po stránce hudební, tak i textové. Lehkost s jakou nahrávka působí, je dána i dokonalým zvládnutím nástrojů. Svými pozitivními písněmi působí jako dobíječ energie. Koncerty jsou prý jejich nejsilnější stránka. Zda je to pravda, posuďte sami.",
-       "shortdesc": "rock",
-       "origin": "Havířov"
-
-                        },
-                        {
-                            "id": "vees",
-                            "name": "Vees",
-                            "time": "19:15",
-                            "duration": 45,
-       "wwwlink": "http://bandzone.cz/vees",
-       "profileimage": "",
-       "icoimage": "content/images/artists/vees-150.jpg",
-       "profiletext": "Mladá indie/rock'n'rollová tří-členná kapela z Českých Budějovic. Kapela má složení kytara, basa, bicí a funguje od roku 2006. Jejich naprosté zapálení a skromný přístup ve spojení s velmi dobrým ovládnutím nástrojů, které není dnes zdaleka pravidlem, nese velké ovoce a tato kapela roste každým dnem. Hlavně se ale musí zažít přímo naživo. Live shows jsou velice energické a bubeník v této kapele není jen ten \"pomocník vzadu\". Není to žádná kopírka, ani revival, je to tou současná autentická divoká kytarovka, která v ČR nemá obdobu ani konkurenci.",
-       "shortdesc": "indie",
-       "origin": "České Budějovice"
-                        },
-                        {
-                            "id": "ucee",
-                            "name": "U-cee & Flavour Band [INT, DE]",
-                            "time": "21:00",
-                            "duration": 60,
-       "wwwlink": "http://bandzone.cz/ucee",
-       "profileimage": "",
-       "icoimage": "content/images/artists/u-cee-150.jpg",
-       "profiletext": "Autorská tvorba tohoto talentovaného zpěváka s egyptsko-tuniskými kořeny nejde charakterizovat pouze jedním žánrem. V jeho písničkách a energickém projevu se snoubí reggae, soul, hip-hop a Ucee nezapře ani své arabské kořeny. Jeho hudební kariéra odstartovala již v 15 letech, kdy spolupracoval s jedním z velkých vydavatelství v Německu. Za posledních pět let Ucee odehrál více jak 350 koncertů po celé Evropě a v severní Africe. Pravidelně spolupracuje s respektovanými německými skupinami Mortal Kombat a Soulid Kollective a vystupoval také vedle takových jmen jako jsou Tarrus Riley, Alborosie, Gentleman nebo Konshens. U nás se ukáže společně s United Flavour bandem, který všichni dobře známe. Rozvlní nás! Rozezpívá nás! Dostane nás do kolen! U toho nesmíte chybět! Pátek, Live Stage, 21h!",
-       "shortdesc": "reggae-soul",
-       "origin": "Praha"
-
-                        },
-                        {
-                            "id": "skyline",
-                            "name": "Skyline",
-                            "time": "22:55",
-                            "duration": 55,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/skyline-150.jpg",
-       "profiletext": "Nejrozjetější česká elektronická kapela vznikla v roce 1997 v Praze. Historicky první koncert odehráli v lednu 1998 jako předkapela Tata Bojs v klubu Delta, ten samý rok se objevili i na legendárním festivalu Jelení příkop. I když bylo tehdy členům kapely sotva dvacet let, začala je okamžitě zastupovat renomovaná agentura D Smack U Promotion. Kapela byla ovlivněna především taneční scénou, která se tehdy blížila ke svému vrcholu a původní zvuk této kapely tedy vycházel hlavně z drum and bassu. Ovšem už tehdy se odlišovali tím, že nedělali jen tracky, ale pořádné písničky. Řeč je samozřejmě o nám dobře známých Skyline. Od jejich posledního koncertu u nás uplynulo už hodně vody (ovšem ne na Lodičkách…), přijďte si poslechnout, co je u nich nového! Mají víc než jen Pretty Princess… Pátek, 22:55!",
-       "shortdesc": "pop, electronica",
-       "origin": "Praha"
-
-                        },
-                        {
-                            "id": "paulie",
-                            "name": "Paulie Garand",
-                            "time": "00:30",
-                            "duration": 50,
-       "wwwlink": "https://www.facebook.com/pages/Paulie-Garand-offiziell-fanplatz/124702407594940",
-       "profileimage": "",
-       "icoimage": "content/images/artists/pauliegarand-150.jpg",
-       "profiletext": "Paulie Garand pochází ze severské líhně talentů – Liberce. Věnuje se rapu i produkování a kromě sólo kariéry v Ty Nikdy působí v kapele BPM. Po pár letech tvoření hudby do šuplíku se v roce 2006 poprvé zapsal do širšího povědomí debutovou deskou Mozoly. Poté následovalo pár let produkování jak pro sebe, tak pro své různé interprety. Během této doby se spojil s Lipem a po nějaké době založili projekt s názvem BPM. V Čechách najednou existovala kapela, která využívala rap jako prostředek, ale vyvarovala se klasických rapových témat. Díky tomu se BPM stali na místní poměry úspěšnou kapelou, vydali dvě desky Slova a Horizonty, získali cenu Akademie populární hudby v kategorii Hip Hop a RnB a objeli spoustu koncertů. Paulieho sólo dráha pokračovala přijetím do Ty Nikdy labelu, kde v roce 2010 vydal desku s názvem Harant, na které mohl dát průchod tématům a beatům, které by se pro BPM nehodily. Paulie díky Harantovi ztratil pár posluchačů, ale na druhou stranu získal spoustu nových. K této desce se v roce 2012 přidal další počin s názvem V hlavní roli, který nabízí, podobně jako Harant, různorodou mozaiku nálad a atmosfér. Od vážných skladeb, přes kritiku až po odlehčená témata. Kromě rapu a produkce se Paulie věnuje filmařině a natáčení videoklipů. Fanoušci mohou znát některé klipy z jeho produkce, které natáčel například pro BPM, IdeaFatte, Pio Squad nebo pro Ty Nikdy.",
-       "shortdesc": "hip-hop",
-       "origin": "Liberec"
-                        }
-                    ]
-                },
-                {
-                    "id": "club",
-                    "name": "Club",
-                    "artists": [
-                        {
-                            "id": "djeda",
-                            "name": "Djeda Lebeda",
-                            "time": "19:00",
-                            "duration": 90,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/djeda-150.jpg",
-       "profiletext": "Djeda Lebeda aka Tomáš Lebeda se poprvé chopil vinylů v roce 2001, kdy absolvoval deejayský kurz v ostravské škole MP4. Od svých počátků Djedův styl prošel pozvolným vývojem od veselého tribal techna a jeho odnoží až po breakbeat, kterému je dnes asi nejvěrnější. Od roku 2006 patří do Playa.cz crew.  Slyšet ho můžete na akcích po Ostravsku a okolí. Na Festivalu Dokořán patří už téměř k základnímu inventáři a stále zůstává věrný vinylovým deskám a gramcům. Přijďte se společně poddat jeho tanečním rytmům.",
-       "shortdesc": "breakbeat",
-       "origin": "Karviná"
-
-                        },
-                        {
-                            "id": "firgo",
-                            "name": "Firgo",
+                            "id": "zeamoon",
+                            "name": "Zeamoon",
                             "time": "20:30",
                             "duration": 90,
-       "wwwlink": "https://www.facebook.com/basstillbeat",
-       "profileimage": "",
-       "icoimage": "content/images/artists/firgo-150.png",
-       "profiletext": "Firgo je zástupce karvinské Basstillbeat crew a pravidelný vytupující na Clubstage. Tento zkušený dj, znalec dobrého neura a milovník sci-fi nás tentokrát překvapí breakbeatovým setem, který se plynule stane základem pro pekelný drumandbassový dýchanek. Přijďte se přesvědčit, že i v této hudební poloze s vámi dokáže Firgo zacvičit jako pořádná subsonická vlna.",
-       "shortdesc": "breakbeat",
-       "origin": "Karviná"
-
+                            "wwwlink": "https://soundcloud.com/zeamoon",
+                            "icoimage": "content/images/artists/zeamoon.jpg",
+                            "profiletext": "Zeamoon is the solo project of Simon Neumann, a talented and trained audio engineer, musician and producer from Germany. Already well known for his psychedelic chillout project Seamoon and for his prog-psytrance-duo Sonic Tickle (with Janosch Wolf), Simon already offers a lot of experience in shaping frequencies for your personal pleasure and dancefloor adventure. With a background as a drummer he played a few years in a classical jazz-trio and started very early to produce hiphop beats, dub and triphop and gained a lot of different experience and influence. After school he decided to move a step forward and successfully studied audio engeneering at university. With his Zeamoon project, Simon is concentrating on progressive psycedelic trance tunes with a perfect balance of twisted psychedelic sawtooth rippin’ sounds and groove & dancefloor oriented rythms. Highest quality production with huge basslines and forward moving energy defines his unique style.",
+                            "shortdesc": "live",
+                            "booking": "Zenon rec.",
+                            "origin": "de"
                         },
                         {
-                            "id": "rudeboy",
-                            "name": "Rudeboy",
+                            "id": "psyejc",
+                            "name": "Psyla vs Ejczka",
                             "time": "22:00",
-                            "duration": 60,
-       "wwwlink": "https://www.facebook.com/rudeboyshdbx",
-       "profileimage": "",
-       "icoimage": "content/images/artists/rudeboy-150.jpg",
-       "profiletext": "Rudeboy aka Rudolf Matějček není na české DNB scéně žádným nováčkem. Za gramofony jsme ho začli vídat v roce 2004, kdy začal s hraním a pořádáním menších akcí v Praze. Patří do teamu Shadowbox crew, kterou reprezentuje také jako občasný redaktor a fotograf. Od roku 2011 ve spolupráci s kolegou M4Y4 stojí za podcastem NA BODU MRAZU na radiu Shadowbox kde komentují svou selekci deepovek a lehčího neurofunku. Kromě DJingu je Rudeboy také designérem německých labelů Blu Saphir a Sync:Saphir a Kubatkova vydavatelství Beyond Belief. Zahrál již na nesčetně akcích a s bagem se podíval i do Londýna, Vídně na Kypr a několikrát na Slovensko. Rudeboy bývá většinou zařazován k deepové odnoži na české scéně. V jeho setech však můžeme slyšet různorodé polohy drum’n'bassu, žádné řezničiny však od něj nečekejte.",
-       "shortdesc": "drum&bass",
-       "origin": "Praha"
-
-                        },
-      {
-                            "id": "rido",
-                            "name": "Rido",
-                            "time": "23:00",
-                            "duration": 90,
-       "wwwlink": "https://www.facebook.com/ridocz",
-       "profileimage": "",
-       "icoimage": "content/images/artists/rido-150.jpg",
-       "profiletext": "Na českého producenta, dj, jednoho z tvůrců legendárního podcastu Záblesk si pořádně namasírujte lýtka. Rido vlastním jménem Pavel boduje nejen na tuzemské scéně. Jeho release vychází na labelech jako Metalheadz, Subtitles Music, Hospital Records, Uprising Records, Citrus Recording. Jeho pecku Twisted VIP – Rido feat. Tomas Oliver jste si zvolili skladbou roku 2012 na Czech Drumandbass Awards 2012. Lahůdkou je také release Thunderbolt, na kterém Rido spolupracoval s Black Sun Empire. Můžete se těšit na pořádný energický set jak je u tohoto zkušeného matadora zvykem.",
-       "shortdesc": "drum&bass",
-       "origin": "Praha"
-
+                            "duration": 180,
+                            "wwwlink": "https://soundcloud.com/ejczka",
+                            "icoimage": "content/images/artists/psyla.jpg",
+                            "profiletext": "Jan Horyna aka dj Ejczka has been DJing and organizing gigs since 2009 and in a short time established at Czech psytrance scene. Together with DJ Plech is a member of Polyhedra crew which organizes not only at psy scene well respected multigenre audiovisual parties Der Klang at famous Cross club in Prague. His sets range from hypnotic dark psychedelic around 152 bpm thru pure psytrance around 146 bpm to down trance line morning psytrance 143 bpm. Always depends on concept of party, but always keep his sets psychedelic. During his appearances you can hear tracks by Silent Horror, Parus, Orestis, Kryptum, LAB, Olien, Psykovsky, Sartor Arepo, Chromatec, RawaR, GappeQ, Xenomorph, Atriohm, Encephalopaticys, Jahbo, Derango, Farebi Jalebi, Ajja, RED, Parasense, Electrypnose, Scatterbrain or some melodic stuff by Mr. Peculiar, Sonic Species, Logic Bomb, S-Range, Hujaboy, Psypilot, Ovnimoon, Gyrro, Cosma and many more. Sometimes he plays b2b sets with DJ Plech (dark psychedelic) or with DJ Ondrej Psyla (Mystical Waves Records) in morning time.<br><br>Besides psychedelic trance he has been playing deep d`n`b and autonomic sound to perform actual progressive broken beatz sound which is his old love for many years.<br><br><br><br>Ondřej Valenta aka Ondrej Psyla is dj&label manager Mystical Waves Records.<br><br>He has been organizing psytrance parties since then and his DJ career began 3 years later in 2004. He started as a member of Trancedelic crew, became a founding member of Mystical Waves crew in 2004 and has been a substantial part of this group until today.<br><br>His sets range from 135 bpm (progressive trance) through 145 bpm (melodic mornig full-on trance) to 148bpm (night psytrance).<br><br>He enjoys presenting tracks by Protonica, Ovnimoon, Egorythmia, EClip, Ace Ventura, Liquid Soul, Symphonix, Jaia, Zen Mechanics, Nok, Freq, Suntree, Aerospace, Earsugar, Gaudium, Andromeda, Zyce, Nerso, Flegma, Sideform, Ectima, AMD, Sangeet, Aphid Moon, Corona, Tristan, Bitkit, Opptokopler, Ephedrix, Aquila, Fearsome Engine, Virtual Light, Sufi, Digicult, Dickster, Burn In Noise, Etnica, Pleidians, Silicon Sound, Atma, Electric Universe, Braincell, Rastaliens, EVP, RealityGrid, Archaic, Trold, Imaginary Sight, Penta, Psymmetrix, Parasense, Lemurians, Scorb, Suria, Hoodwink, DISSOCIACTIVE, Fungus Funk, Asimilon, Dust, Pantomiman, Ianuaria, Mole, Pararhythm, Haraburda, Dirty Saffi, Synthetik Chaos, Leftism, Flame and many more.<br><br>He also has a DJ chill out project on behalf Psyla in Waves.<br><br>In his appearances he prefers psychill, dub and ambient. He likes longer chill out sets which give him enough time to create special feeling and better atmosphere among the audience.<br><br>He lives and works in Prague.<br><br>He became a label DJ of Goblin Records, which specializes in darker kind of psytrance - dark psychedelic. Style of his playing progressed in another direction and so he left the label in 2010.",
+                            "shortdesc": "",
+                            "booking": "Mystical Waves / Polyhedra",
+                            "origin": "cz"
                         },
                         {
-                            "id": "cern",
-                            "name": "CERN [UK]",
-                            "time": "00:30",
-                            "duration": 90,
-       "wwwlink": "https://www.facebook.com/Cernsound",
-       "profileimage": "",
-       "icoimage": "content/images/artists/cern-150.jpg",
-       "profiletext": "CERN vlastním jménem Oliver bude jedním z hlavních chodů na letošní Clubstage. Tento rodák z Nového Zélandu aktuálně žijící v UK přijíždí do ČR po dvou letech a můžete se těšit na pořádnou dávku temnějšího drumandbassu. Od svého prvního releasu v roce 2008 se nám CERN zapsal do paměti hlavně svým albem Terminus (2011). Svou hudbu vydává na zvučných labelech jako Renegade Hardwere, Commercial Suicide, Project 51, Dispatch Recordings, Samurai Music. O tom, že je to nejen výborný producent, ale také nekompromisní dj, se přijďtě přesvědčit v pátek na Clubstage, kde nám pořádně zatopí pod kotlem.",
-       "shortdesc": "drum&bass",
-       "origin": "Auckland"
-
+                            "id": "spatial",
+                            "name": "Spatial Feature",
+                            "time": "01:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/spatial_feature",
+                            "icoimage": "content/images/artists/spatial-feature.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "Ouloop prod.",
+                            "origin": "ru"
                         },
                         {
-                            "id": "sayko",
-                            "name": "Sayko",
-                            "time": "02:00",
-                            "duration": 60,
-       "wwwlink": "https://www.facebook.com/saykocz",
-       "profileimage": "",
-       "icoimage": "content/images/artists/sayko-150.jpg",
-       "profiletext": "Sayko je bezesporu jedna z nejdéle hrajících kultovních postav české d’n'b scény. Od roku 1992 jsme ho mohli slyšet hrát na stovkách akcí vedle jmen jako Kemal, DJ Hype, LTJ Bukem, Aphrodite, D-Bridge, Technical Itch a spousta dalších. Můžete se těšit na velmi precizní styl mixování plný výborné muziky s obrovskou energií, která dokáže strhnout publikum. Martin je výborný muzikant a oddaný turntablista. Podle mnohých je právě on nejlepším drumandbassovým djem v Čechách. Společně s bubeníkem Pavlem Fajtem měl společný projekt Autopilote a v nu-metalové sestavě Hraczki stál nejen za gramofony, ale mohli jste ho slyšet i zpívat. Sayko je všestraný hudebník produkuje také své vlastní tracky a s oblibou se věnuje i remixům. Sayko je živel, který vás postaví na nohy, přijdťe se přesvědčit na vlastní uši.",
-       "shortdesc": "drum&bass",
-       "origin": "Brno"
-
-                        },
-                        {
-                            "id": "pier",
-                            "name": "Pier",
+                            "id": "chors",
+                            "name": "Chors",
                             "time": "03:00",
-                            "duration": 60,
-       "wwwlink": "https://www.facebook.com/pier.redrum",
-       "profileimage": "",
-       "icoimage": "content/images/artists/pier-150.jpg",
-       "profiletext": "Pierovy hudební začátky můžeme hledat v roce 2002, kdy začal točit desky pod křídly karvinského seskupení Basstillbeat, která v té době vytvářela mejdany Subsonic Pressure nebo neméně známou klubovou noc Bass.Complex. Mezníkem se stal rok 2008, kdy se přesunul do Brna a stal se členem zvučné Redrum crew. Pod touto hlavičkou se podílí na pořádání party STEPSLET, která hostila jména jako Neonlight, SKC, Muffler, Klute apod. Stál také u zrodu Free DNB Mondays, které se konají každé pondělí v nejoblíbenějším brněském klubu Fléda. Pier je pod svým vlastním jménem Jiří Chlebus také úspěšným grafickým designérem a oddaným freelancerem. Jako grafik stojí za celkovým vizuálním stylem všech ročníků Festivalu Dokořán, kde jako člen sdružení působí jako Clubstage manager. Zde se objevila jména jako Fourward, Zero Method, Mindscape, Headflux, Jade a česká drumandbassová špička. Těšit se můžete na pečlivou selekci kvalitního Techstepu.",
-       "shortdesc": "drum&bass",
-       "origin": "Brno"
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/chors",
+                            "icoimage": "content/images/artists/chors.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "Timeflux rec.",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "nulatri",
+                            "name": "000333",
+                            "time": "05:00",
+                            "duration": 90,
+                            "wwwlink": "http://www.mimo.cz",
+                            "icoimage": "content/images/artists/000333.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Mimo TV",
+                            "origin": "cz"
                         }
                     ]
                 },
                 {
-                    "id": "alter",
-                    "name": "Alter",
+                    "id": "chill",
+                    "name": "Chill Out",
                     "artists": [
                         {
-                            "id": "madfalls",
-                            "name": "MadFalls",
-                            "time": "17:00",
-                            "duration": 45,
-       "wwwlink": "http://bandzone.cz/madfalls",
-       "profileimage": "",
-       "icoimage": "content/images/artists/madfalls-150.jpg",
-       "profiletext": "Punk-rocková kapela z Frýdku-Místku datuje svůj počátek v roce 2005. Prošla si mnohými personálními změnami, než se dostala do aktuálního stavu Juta (bicí), Radek (kytara), Jurgen (baskytara), Jindra (kytara, zpěv), Vita (heligonka) a od loňského roku přešli z angličtiny do češtiny ve svých textech. Na Dokořánu zaslechnete oboje.",
-       "shortdesc": "punk-rock",
-       "origin": "Frýdek-Místek"
-
-                        },
-                        {
-                            "id": "j",
-                            "name": "J",
-                            "time": "18:30",
-                            "duration": 45,
-       "wwwlink": "https://www.facebook.com/ColdColdNights",
-       "profileimage": "",
-       "icoimage": "content/images/artists/j-150.jpg",
-       "profiletext": "Mladý písničkář s hlasem hrubším než éčko na baskytaře. Romanticky založený cestovatel zpívá o věcech, které si vždy publikum rádo poslechne, stylem, který je přátelský, uchu lichotivý a všem dobře známý, nicméně v Jéčkově podání přeci jen úplně nový, neotřelý a svěží. Na podiu ho doprovodí jeho iPad, skladby, které si můžete poslechnout na http://coldcoldnights.bandcamp.com, si nahrává doma sám, tím pádem lo-fi nádech prostě nezapře. V červnu 2012 vydal své druhé EP a těší se vysokému zájmu ze zahraničí. S kouzlením úsměvů na tvářích diváků začne v pátek od 18:30 na Alter Stage.",
-       "shortdesc": "garage-folk",
-       "origin": "Praha"
-
-                        },
-                        {
-                            "id": "lowfi",
-                            "name": "Low-Fi [IT]",
+                            "id": "kubis",
+                            "name": "Kubis",
                             "time": "20:00",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/low-fi-150.jpg",
-       "profiletext": "Festival Dokořán v Karviné je zastávkou evropského turné této italské trojice. Není to první turné, mají jich za sebou už sedm. Jejich styl muziky hledejte mezi New Wave a Electro. V roce 2012 vydali své první LP s názvem What we are is secret a jistě si vás podmaní rytmy ve stínu indie-rocku a temnými hlasy. Trochu z toho mrazí a to bychom od Italů nečekali.",
-       "shortdesc": "indie-rock",
-       "origin": ""
-
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Indian Express",
+                            "origin": "cz"
+                        },
+                     {
+                            "id": "atati",
+                            "name": "Atati",
+                            "time": "21:30",
+                            "duration": 120,
+                            "wwwlink": "http://www.last.fm/music/Atati",
+                            "icoimage": "content/images/artists/atati.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Blue Hour Sounds",
+                            "origin": "ua"
                         },
                         {
-                            "id": "fromourhands",
-                            "name": "From Our Hands [SK]",
-                            "time": "22:00",
-                            "duration": 55,
-       "wwwlink": "http://bandzone.cz/fromourhands",
-       "profileimage": "",
-       "icoimage": "content/images/artists/from-our-hands-150.jpg",
-       "profiletext": "Pokud hledáte správný rockec, na který si budete chtít zaskákat, ale třeba jen se mírně vlnit do rytmů, pak je mladá slovenská formace From Our Hands z Bratislavy pro vás to pravé. Nejsou na Dokořánu poprvé a už tehdy se to v kotli jen hemžilo. Nemusíte je znát ale jen z Dokořánu, vždyť svůj první koncert v roce 2008 se odehrál právě v Ostravě a během té krátké doby už stihli předehrávat stálicím jako Iné Kafe apod. Řízné kytarové tóny doprovázené o zpěv frontmana Mateja Hoťka jsou pro páteční večer na AlterStagi to pravé.",
-       "shortdesc": "rock",
-       "origin": "Bratislava"
-
+                            "id": "alexdaf",
+                            "name": "Alexander Daf",
+                            "time": "23:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/alexanderdaf",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "Under the stage name Alexander Daf acts Alexander Ivanov - a young and talented musician from St. Petersburg. As a devoted fan of ambient and chillout music, he creates his own unique sound. Its elements - endless ambient landscapes, complex rhythmic structures and subtle mood eastern ethnic. Alexander Dafa music is known and loved throughout the world. His work has been published in Italy (Laverna), Latvia (Elpa), Ukraine (Sentimony) and other legendary Lithuanian no-label Sutemos included track Dafa Inflow in the compilation of the IntelligentToys4, which was also presented creations of famous musicians - Vladislav Delay, Lackluster, Sleepy Town Manufacture, Funckarma and many others.<br><br>At the end of 2008 will be released a full album on System Recordings. Where their earlier work published artists such as: James Holden, Dieselboy, Evol Intent, Miss Kittin, Adam F and etc.<br><br>Currently, Alexander Daf is an integral part of the promotional group Sun Station, regularly performs in St. Petersburg (clubs' Griboyedov », F-108, Inside, Port, Respect) and other Russian cities, as well as taking participated in many large-scale festivals and open-airs - Klusadaba Intellectual Picnic (Riga, Latvia), Euthanasia (Minsk, Belarus), Trimurti Festival (Moscow, Russia), Armageddon Festival (Russia), etc.",
+                            "shortdesc": "live",
+                            "booking": " Aleph Zero rec.",
+                            "origin": "ru"
                         },
                         {
-                            "id": "lavagance",
-                            "name": "Lavagance [SK]",
-                            "time": "23:50",
-                            "duration": 55,
-       "wwwlink": "http://bandzone.cz/lavagance",
-       "profileimage": "",
-       "icoimage": "content/images/artists/lavagance-150.jpg",
-       "profiletext": "Na Slovensku již trochu legenda, u nás ještě stále poněkud nováček. Bratislavští popově alternativní, elektronicky nabití umělci již předskakovali takovým monstrům, jako Mando Diao, Duran Duran nebo Depeche Mode, mají na kontě například ocenění za nejlepší Slovenské album roku 2007, udělené posluchači rádia FM, jejich hudba byla použita také ve filmu Doblba!, režírovaného Petrem Valcherem, atd., mohli bychom pokračovat opravdu dlouho. Sami si o nich můžete něco přečíst na jejich bandzone profilu www.bandzone.cz/lavagance, a o jejich kvalitách se přijít přesvědčit na vlastní uši v pátek 9.8. od 23:50 k Alter Stage.",
-       "shortdesc": "alternative",
-       "origin": "Bratislava"
-
+							"id": "ogidogi",
+                            "name": "Ogi dogi",
+                            "time": "01:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/yudhisthira",
+                            "icoimage": "content/images/artists/ogidogi.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Vertigo rec.",
+                            "origin": "ua"
                         },
                         {
-                            "id": "degradace",
-                            "name": "Degradace",
-                            "time": "01:20",
-                            "duration": 40,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/degradace-150.jpg",
-       "profiletext": "Tak tady bude hodně živo a v kotli to může i místy bolet. Degradace z Ostravy není na scéně žádný nováček, punkeři je znají už více než 10 let. V jejich tónech ale pomalu převládají styly rocku a rock’n'rollu. Sami přiznávají ovlivnění kapelou Rollling Stones, ale na svůj punk si sáhnout nedají. Rudee, Tommy Heroin, Michal si na vás brousí nástroje už teď.",
-       "shortdesc": "punk-rock'n'roll",
-       "origin": "Ostrava"
-                        }
-                    ]
-                },
-                {
-                    "id": "theatre",
-                    "name": "Theatre",
-                    "artists": [
-                        {
-                            "id": "cirkus",
-                            "name": "CIRKUS LEVITARE / Cirkus Láska",
-                            "time": "18:00",
-                            "duration": 45,
-       "wwwlink": "http://cirkuslevitare.cz",
-       "profileimage": "",
-       "icoimage": "content/images/artists/cirkus-le-vitare-150.jpg",
-       "profiletext": "Cirkus je láska – láska je cirkus. Cirkusová telenovela s neustále se vyvíjející zápletkou. Příběh lásky mladého chlapce ke krásné tanečnici, v němž se prolíná budoucnost s přítomností a časová linka se stává pružnou jako trampolína. Nic však není tak snadné, jak se na první pohled jeví. Ještě, když se do příběhu připletou další roztodivné postavy. Však to znáte…<br /><br />LeVitare je soubor lidí zapálených do žonglování, hudby, tance a pohybu všeobecně, lidí, kteří mají rádi svět nového cirkusu a snaží se v něm sami najít a obstát.   Vycházejí přitom ze zkušeností, které nasbírali na žonglérských, tanečních, pantomimických a divadelních workshopech a také na mnoha vystoupeních, která uskutečňují i sami a od roku 2010 v rámci Cirkusu LeVitare společně.<br /><br />Hledají originální poetiku, ve které se budou cítit dobře diváci stejně jako účinkující.",
-"shortdesc": "cirkus",
-"origin": ""
-
-                        },
-                        {
-                            "id": "triarius",
-                            "name": "TRIARIUS / Kočka na kolejích",
-                            "time": "19:45",
-                            "duration": 75,
-       "wwwlink": "http://www.facebook.com/divadlo.triarius",
-       "profileimage": "",
-       "icoimage": "content/images/artists/kocka-na-kolejich-150.jpg",
-       "profiletext": "Vpravdě lyrické drama.<br /><br />Dialog milenců po několikaletém vztahu na jedné zapadlé železniční zastávce při večerním návratu z výletu.<br />Letní noc, ona a on.<br />Stačí jeden krok ve tmě a může zvítězit láska.<br />Stačí krok – a pohltí je úzkost.<br /><br />Évi:  To je hrůza!<br />Véna: Co je hrůza? Co zas?<br />Évi: Když jsou dva lidi k sobě upřímný. Lež má krátký nohy – a upřímnost nevede nikam.<br />Véna: Kočko, už si dost dlouho lžem.<br />Évi:  To je škoda. Má se lhát pomalejc, aby to vydrželo.<br /><br />režie: Josef Jan Kopecký<br /><br />Vzkaz pro návštěvníky Festival Dokořán 2013:<br />Přijíždíme Vám zahrát představení o mladém páru. O ní a o něm. Jsou spolu sedm let.<br />Přijíždíme Vám zahrát představení o nás. A o Vás. O ní a o mně. O tobě a o ní. O něm.<br />Přijďte se podívat. Myslím, že se poznáte…<br /><br />TRIARIUS je divadelní spolek, občanské sdružení pořádající kulturní akce v České Třebové, občanské sdružení provozující klub alternativní kultury Modrý trpaslík.",
-"shortdesc": "drama",
-"origin": ""
-                        },
-                        {
-                            "id": "ian",
-                            "name": "Ian",
-                            "time": "22:00",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/ian-150.jpg",
-       "profiletext": "Slyšeli jste o českém Youtube festu? Vyhrála ho málo známá a v podstatě neznámá dvojice Ian Yvese a Jan Kaňka s písní Mom’n'Dad. Ještě se divíte, proč si říkají Ian? Máme štěstí, že jsme je ukořistili pro komornější vystoupení na divadelní scéně.",
-"shortdesc": "koncert",
-"origin": ""
+                            "id": "boomanga",
+                            "name": "Boomanga",
+                            "time": "03:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/boomanga",
+                            "icoimage": "content/images/artists/boomanga.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "Chaotic Experience",
+                            "origin": "ru"
                         }
                     ]
                 }
             ]
         },
         {
-   "id": "sobota",
-            "name": "SOBOTA",
+            "id": "sobota",
+            "name": "SOBOTA+",
             "date": "10.8.2013",
             "stages": [
                 {
-                    "id": "live",
-                    "name": "Live",
+                    "id": "main",
+                    "name": "Main",
                     "artists": [
                         {
-                            "id": "defy",
-                            "name": "Defy",
+                            "id": "manga",
+                            "name": "Manga",
+                            "time": "06:30",
+                            "duration": 90,
+                            "wwwlink": "http://www.myspace.com/boomanga/music",
+                            "icoimage": "content/images/artists/manga.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "Ouloop prod.",
+                            "origin": "ru"
+                        },
+                        {
+                            "id": "atati",
+                            "name": "Atati",
+                            "time": "8:00",
+                            "duration": 120,
+                            "wwwlink": "http://www.last.fm/music/Atati",
+                            "icoimage": "content/images/artists/atati.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Blue Hour Sounds",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "jayex",
+                            "name": "Jayex",
+                            "time": "10:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/spacekirtan",
+                            "icoimage": "content/images/artists/jayex.jpg",
+                            "profiletext": "goa-psy trance and dubstep producer from dark forests of Bouzov microregion",
+                            "shortdesc": "live/dj",
+                            "booking": "U.S.E",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "jarin",
+                            "name": "Jarin",
+                            "time": "11:30",
+                            "duration": 90,
+                            "wwwlink": "http://www.jarin.cz/",
+                            "icoimage": "content/images/artists/jarin.jpg",
+                            "profiletext": "I've started DJing in 2004. Since 2005-6 i've started to play more in czech clubs and festivals. My favourit music styles are inteligent psytrance, australian psy progressive and breakbeat.",
+                            "shortdesc": "",
+                            "booking": "Yupisashi",
+                            "origin": "cz"
+                        },
+						{
+                            "id": "rachetik",
+                            "name": "Rachetik",
+                            "time": "13:00",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Hedonix",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "martyzan",
+                            "name": "Martyzan",
                             "time": "14:30",
-                            "duration": 30,
-       "wwwlink": "http://bandzone.cz/defyrockband",
-       "profileimage": "",
-       "icoimage": "content/images/artists/defy-150.jpg",
-       "profiletext": "Kapela vznikla v roce 2011 a během prvního půl roku její existence vzniklo 10 punkrockových skladeb (často s prvky běžného rocku a metalu), kterými se prezentuje. Na přelomu let 2012-2013 Defy postupně nahráli 2 dema čítající 6 skladeb a nyní pracují na svém programu pro zbytek roku 2013 a pracuje na dalších skladbách.",
-       "shortdesc": "punk-rock",
-       "origin": "Zlín"
-
-                        },
-                        {
-                            "id": "neons",
-                            "name": "The Neons",
-                            "time": "15:40",
-                            "duration": 40,
-       "wwwlink": "http://bandzone.cz/theneons",
-       "profileimage": "",
-       "icoimage": "content/images/artists/the-neones-150.jpg",
-       "profiletext": "Liberecká pop-rocková kapela vznikla ze skupiny ON! Tento rok v květnu pokřtili své první album.",
-       "shortdesc": "pop-rock",
-       "origin": "Liberec"
-
-                        },
-      {
-                            "id": "birds",
-                            "name": "Birds and Wolves",
-                            "time": "17:15",
-                            "duration": 50,
-       "wwwlink": "http://bandzone.cz/birdsandwolves",
-       "profileimage": "",
-       "icoimage": "content/images/artists/birds-and-wolves-150.jpg",
-       "profiletext": "Když měla kapela nahrávat své debutové album, odešel jim zpěvák, poté bubeník a než našli adekvátní náhradu, téměř se rozpadli. Znovuzrození Birds and Wolves udělali definitivní čáru za předchozí tvorbou a pouští se do nových, neprobádaných končin. Tahle pražská south-rocková formace se zavřela do studia a výsledkem je několik songů a videoklip.",
-       "shortdesc": "indie",
-       "origin": "Praha"
-
-                        },
-                        {
-							"id": "flash",
-                            "name": "Flash the Readies",
-                            "time": "19:00",
-                            "duration": 50,
-       "wwwlink": "http://bandzone.cz/flashthereadies",
-       "profileimage": "",
-       "icoimage": "content/images/artists/flashthereadies-150.jpg",
-       "profiletext": "Lehké zklidnění a prostor k uvolnění nám zprostředkují již 7 let hrající nadšenci z Olomouce. Velmi úspěšně si pohrávají někde na hranici alternativního rocku, psychadelic popu, možná až k post rocku. Ve tvorbě je znát barvitá historie kapely, ať už „klinické smrti“ v podobě výměny některých členů, spousty koncertů, dvě EP či snad velká, opravdová deska. Budou se na Vás těšit v sobotu od 19:00 na Live Stage.",
-       "shortdesc": "post rock",
-       "origin": "Olomouc"
-                        },
-                        {
-                            "id": "jamaram",
-                            "name": "Jamaram [DE]",
-                            "time": "20:45",
-                            "duration": 60,
-       "wwwlink": "http://www.jamaram.de",
-       "profileimage": "",
-       "icoimage": "content/images/artists/jamaram-150.jpg",
-       "profiletext": "Tito němečtí šílenci nás přijdou roztančit a rozveselit v sobotních nočních hodinách. Můžeme se těšit na tuny pozitivních rytmů, přívaly energie, kterou nejde nepřijmout i styl, na který si rádi zvykneme. Na kontě mají již několik alb, koncertů a tour už by se jeden nedopočítal. Konečně se přijedou podívat i k nám a Vy u toho nesmíte chybět!",
-       "shortdesc": "reggae, funk",
-       "origin": ""
-                        },
-                        {
-                            "id": "airfare",
-                            "name": "Airfare",
-                            "time": "22:35",
-                            "duration": 55,
-       "wwwlink": "http://bandzone.cz/airfare",
-       "profileimage": "",
-       "icoimage": "content/images/artists/airfare-150.jpg",
-       "profiletext": "Slyšeli jste je. Takto sebevědomě to tvrdíme, jelikož tóny této rock’n'rollové čtveřice v čele s americkým zpěvákem a kytaristou Thomasem J. Lichtagem se na nás linuly  ze všech rádií. Píseň Sorry Baby v roce 2008 odstartovala zájem o českou formaci nejen u nás, ale v Itálii, Rusku a Slovensku, kde jejich písně mají pevná místa v hitparádách, ale svůj prostor využili i na festivalu Europavox ve Francii. Mezitím ušli kus cesty, pracovali na své muzice a díky tomu se mohou pochlubit třetí deskou s názvem YOUNGBLOOD a spoluprací s významným americkým producentem, o jehož zájmu většina hudebníků jen tajně sní po nocích: Bjorn Thorsrud, který stojí za alby kapel jako Smashing Pumpkins, Zwan, The Dandy Warhols, Whitesnake a dalších. Není to ale jen rock’n'roll, kluci postupují a poslechněte si třeba společný singl s hiphopovou kapelou DeFuckTo.",
-       "shortdesc": "rock'n'roll",
-       "origin": "Praha"
-                        },
-                        {
-                            "id": "abhorrence",
-                            "name": "Abhorrence [SK]",
-                            "time": "00:20",
-                            "duration": 50,
-       "wwwlink": "http://bandzone.cz/abhorrence",
-       "profileimage": "",
-       "icoimage": "content/images/artists/abhorrence-150.jpg",
-       "profiletext": "Naši drahí bratia Slováci od nás boli odtrhnutí, no nedali sa a stále k nam jazdia. Teda hlavne, keď ich pozveme.<br/><br/>Jak dobře umíte anglicky? Z názvu pak pochopíte, že to nejsou žádné romantické něžné květinky. Abhorrence je jedna z nejdéle hrajících slovenských hardcoreových kapel a světe div se, jejich turné probíhalo v Asii (např. v Singapuru), kde si metalovo-punkovou scénu asi cení více než my a naši bratia. Příznivce ostrých kytarových řezů nalákají na sobotní vystoupení na Dokořánu. Očekává se od vás aktivní účast v kotli",
-       "shortdesc": "hardcore",
-       "origin": "Bratislava"       
-                        }
-                    ]
-                },
-                {
-                    "id": "club",
-                    "name": "Club",
-                    "artists": [
-                        {
-                            "id": "petit",
-                            "name": "Petit",
-                            "time": "17:00",
                             "duration": 90,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/petit-150.jpg",
-       "profiletext": "Petit se poprvé objevil za gramofony před 9 lety. V začátcích experimentoval s drumandbassem a breakbeatem. S přibývajícím stářím, resp. rozhledem, zpomalil v bpm a dnes se věnuje funku a jeho kombinací s dalšími hudebními styly. Jelikož funk je žánr velice košatý, můžeme očekávat skvělou selekci klasických pecek, spolu s breakem a hlavně veselou jízdu s pořádným groovem.",
-       "shortdesc": "funk",
-       "origin": "Ostrava"
-
+                            "wwwlink": "https://soundcloud.com/martyzan",
+                            "icoimage": "content/images/artists/martyzan.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "U.S.E",
+                            "origin": "cz"
                         },
                         {
-                            "id": "yadel",
-                            "name": "Yadel",
-                            "time": "18:30",
+                            "id": "inkflo",
+                            "name": "Ink Flo",
+                            "time": "16:00",
                             "duration": 90,
-       "wwwlink": "https://www.facebook.com/Lazytempo",
-       "profileimage": "",
-       "icoimage": "content/images/artists/yadel-150.jpg",
-       "profiletext": "Yadel se stejně jako ostatní členové Lazytempo crew věnuje elektronické muzice (tedy v podobě Djingu) již 15 let. Za tuto dobu prometl snad všemožné zakoutí zlomených beatů od breaku až po drumandbass. Spolu s Bertem Formanem s projektu Forma vysílají pravidelný pořad [křak] na rádiu StreetCulture. Tento pořad si údajně dává za úkol objevovat nové tváře, případně dávat prostor neokoukanému. Ale zakopnout lze samozřejmě i o velikány naší „malé“ scény. Tento přístup se evidentně Davidovi prolévá i do selekce desek. Jeho set lze očekávat v rázném tempu současné bass music s vlivy techna, Future Garage i UK Funky.",
-       "shortdesc": "bass",
-       "origin": "Ostrava"
-
+                            "wwwlink": "https://soundcloud.com/inkflopsy",
+                            "icoimage": "content/images/artists/inkflo.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": "cz"
                         },
                         {
-                            "id": "zlatomil",
-                            "name": "Zlatomil",
-                            "time": "20:00",
-                            "duration": 60,
-       "wwwlink": "https://www.facebook.com/zlatomil",
-       "profileimage": "",
-       "icoimage": "content/images/artists/zlatomil-150.jpg",
-       "profiletext": "Zlatomil přijíždí jako zkušený hudební someliér z jižní Moravy. Rozsah jeho hudebního vkusu je šírší než jakákoliv vinice. Aroma může být jak rovné tak i zlomené. Jeho sety jsou vysoce extraktivní, kořeněné ekletickými žánry s důrazem na vyprávění příběhu. Můžete se těšit na nezapomenutelnou kadenci jednotlivých tracků s optimalním množstvím kyselosti.",
-       "shortdesc": "electronic",
-       "origin": ""
-
-                        },
-      {
-                            "id": "balkan",
-                            "name": "Dr. Balkan",
-                            "time": "21:00",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/dr-balkan-150.jpg",
-       "profiletext": "Dr. Balkan je člen Bassta Fidli Crew a specialista na pohybové potíže, nehybnosti kloubů a rytmickou gymnastiku. Využívá léčebné prostředky od předních kapacit balkánu, které míchá s tradiční slováckou medicínou a globálními bylinnými výtažky. Mezi nejúčinější tinktůry Dr. Balkanovy léčby patří BalkanBeatz, Urban Klezmer, Folkstep a Turbofolk.",
-       "shortdesc": "balkan",
-       "origin": ""
-
-                        },
-                        {
-                            "id": "dscdrmr",
-                            "name": "DSCDRMR",
-                            "time": "22:00",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/dscdrm-150.jpg",
-       "profiletext": "Jako zástupce 142bpm Crew se nám letos představí dj DSCDRMR. Jako velký milovník bass music hraje napříč žánry house, funky, dubstep a garage. Můžete se tedy těšit na svěží set, který roztačil střevíce nejednoho tanečního večírku.",
-       "shortdesc": "bass",
-       "origin": ""
-
-                        },
-                        {
-                            "id": "flu",
-                            "name": "FLU",
-                            "time": "23:00",
-                            "duration": 60,
-       "wwwlink": "https://www.facebook.com/Lazytempo",
-       "profileimage": "",
-       "icoimage": "content/images/artists/flu-150.jpg",
-       "profiletext": "Zakládající člen Ostravské DvoikaTroika Crew se už pěkných pár let pohybuje mimo drumandbassové teritorium a pod hlavičkou eklektického seskupení Lazytempo.cz se toulá po méně prošlapaných stezkách současné elektronické muziky. Ať již se jedná o cumbii, moombahton, ostrovní bass music či balkánské dechovky, Honza se ve svých setech snaží míchat vlivy z celého světa. Oprostěte se tedy od hudebních škatulek a vydejte se na hudební trip z Afriky do Londýny a Bristolu, pak přes oceán do Detroitu a New Yorku a posléze panamerickou cestou až někam do Bogoty a Buenos Aires. Zkrátka world bass music.",
-       "shortdesc": "bass",
-       "origin": "Ostrava"
-
-                        },
-                        {
-                            "id": "saku",
-                            "name": "Saku",
-                            "time": "00:00",
-                            "duration": 60,
-       "wwwlink": "https://www.facebook.com/breakbeatcz",
-       "profileimage": "",
-       "icoimage": "content/images/artists/saku-150.jpg",
-       "profiletext": "Saku je zakladajicim členem seskupení breakbeat.cz a hudba je jeho nedílnou součástí života. Jako bývalý hráč na klavír a kytaru se za gramofony postavil více jak 15 lety. Jeho sety jsou zárukou kvalitnií jízdy nejen současným breakbeatem. V případě, že se Sam rozhodne přitvrdit, je výsledkem skvělá kombinace rázného zlomeného beatu s bass technem. Spolu s nerozlučným kolegou Kaplickem hrají již řadu let pod nickem KapSak. Jejich aktuální hudební nálady si lze naladit v rámci pořadu Breakbeat Conference na Rádiu 1. Saku navíc již několik let společně s klubem Cross produkuje breakbeatovou noc Dobrejk večer a je také spoluorganizátorem známého festivalu Soundfeer.",
-       "shortdesc": "breakbeat",
-       "origin": "Praha"
-
-                        },
-      {
-                            "id": "badtango",
-                            "name": "Bad Tango [UK]",
-                            "time": "01:00",
-                            "duration": 90,
-       "wwwlink": "https://www.facebook.com/BadTango",
-       "profileimage": "",
-       "icoimage": "content/images/artists/bad_tango-150.jpg",
-       "profiletext": "Bad Tango vlastním jménem Will Railton je jedním z nejzvučnějších jmen psychedelické, breakbeatové a tech-funkové scény současnosti. Jeho raketový nástup po prvním releasu v lednu 2011 ho rychle zapsal k labelům jako Broken Robot, Logariddim Records, Exogenic Breaks nebo YellowFinger. Hned na to získává ocenění „Best New Producer“ v prestižní soutěži International Breakbeat Awards. Díky svému jedinečnému šťavnatému zvuku a smyslu pro detail je jedním z největších umělců taneční scény. Na chystaném releasu vyjde i remix jeho pecky Enzyme, za kterým stojí další vynikající producent Hedflux (učínkující na minulém ročníku festivalu).",
-       "shortdesc": "psybreak",
-       "origin": "Cambridge"
-
-                        },
-      {
-                            "id": "line",
-                            "name": "Line of Sight",
-                            "time": "02:30",
-                            "duration": 90,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/los-150.jpg",
-       "profiletext": "Georgi Zhelyazkov pochází z bulharské Varny a muzice se aktivně věnuje od čtrnácti let, kdy začal hrát na basu a na kytaru v hardcoreové kapele. Ta úspěšně koncertovala na začátku devadesátých let po celé zemi.<br /><br />Po jejím rozpadu v polovině 90. let dostal první počítač a začal s vlastní produkcí. Nejdřív na to šel přes drum and bass po ose programů Fast Tracker II – Fruity Loops – Reason. Když mu ale na stole v roce 2006 přistál Mac a s ním Logic, vylepšil zvuk a zpomalil tempo k breakbeatu. Ten dělá pod hlavičkou Line of Sight dodnes, nicméně už výhradně v Abletonu.<br /><br />Ovšem jako DJ začal hrát break o mnoho let dřív, když mu po krátkém flirtu s dnb náhodou přistál ve schránce balík desek od kamaráda. V následujících letech se vypracoval na jednu z hlavních postav breakbeatu v Bulharsku.<br /><br />V roce 2009 mu vyšel první počin na labelu Subsonic Device a od té doby má na kontě 15 releasů. Pomyslným vrcholem je remix pro Paula Oakenfolda na labelu Perfecto.<br /><br />Ovšem před dvěma lety nastal zlom a Line Of Sight se přestěhoval nejdříve do Brna a následně do Prahy. Aby byla změna kompletní i v produkci, opustil svůj klasický zvuk progressive breakbeatu a vrhnul se do čerstvých vod psybreaku.<br /><br />V této zvukové krajině už mu vyšly dva remixy na labelech Ego Shot a In Bloom a několik dalších je v očekávání. A do této krajiny dnes zajíždí i ve svých setech.",
-       "shortdesc": "psybreak",
-       "origin": "Praha"
-                        }
-                    ]
-                },
-                {
-                    "id": "alter",
-                    "name": "Alter",
-                    "artists": [
-      {
-                            "id": "zatracena",
-                            "name": "Otrávená generace",
-                            "time": "14:00",
-                            "duration": 30,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/otravena-generace-150.jpg",
-       "profiletext": "Tak tyhle jistě znáte, jsou to Karviňáci jak vyšití a co jiného než punk s názvy skladeb „Radegast“ nebo „Armádní“ můžete čekat? Hrají v sobotu na AlterStagi.",
-       "shortdesc": "punk",
-       "origin": "Karviná"
-
-                        },
-      {
-                            "id": "people",
-                            "name": "People",
-                            "time": "15:00",
-                            "duration": 40,
-       "wwwlink": "http://bandzone.cz/people",
-       "profileimage": "",
-       "icoimage": "content/images/artists/people-150.jpg",
-       "profiletext": "Trio šílenců s kytarami a bicí soupravou buduje svůj hlučný a neodolatelně našlápnutý groove od roku 2006.<br/><br/>Za léta společné dřiny ve vznikl charakteristický zvuk PEOPLE  - zatímco skladatel, zpěvák a kytarista Petr Hrabovský chrlil jeden riff za druhým, srostl jeho hutný kytarový sound s výbušnou basou Lukáše Palečka a dynamickým projevem bubeníka Petra Muchy v mimořádný souzvuk, který vás nenechá v klidu.<br/><br/>Na podzim 2012 se objevily první seriozní nahrávky a kapela připravuje na sezónu 2013 nejen sadu dalších písní, ale především dlouho očekávanou šňůru koncertů v klubech a na letních festivalech.",
-       "shortdesc": "crossover",
-       "origin": "Kyjov"
-
-                        },
-      {
-                            "id": "martin",
-                            "name": "Martin Evžen Kyšperský",
-                            "time": "16:30",
-                            "duration": 40,
-       "wwwlink": "http://bandzone.cz/kyspersky",
-       "profileimage": "",
-       "icoimage": "content/images/artists/martin-evezen-kyspersky-150.jpg",
-       "profiletext": "Martin si na Dokořánu odbyl premiéru vloni s kapelou Květy, málo známá většině veřejnosti sklidila velké ovace, byť bez skákání a pískání. Martinovi, hudebně aktivnímu již od 13 let, to ale nestačí a má své vlastní sólové projekty, píše hudbu k divadelním hrám a spolupracuje v dalších kapelách a sdruženích. Výčet je delší, než zde máme místa. Pro zájemce mrkněte na Wikipedii a k nám právě přijedete představit něco, ze své sólové tvorby. Takhle aktivní a všestranný umělec je k pohledání.",
-       "shortdesc": "power-soul",
-       "origin": "Brno"
-
-                        },
-                        {
-                            "id": "hysteric",
-                            "name": "I Like You Hysteric",
-                            "time": "18:05",
-                            "duration": 55,
-       "wwwlink": "http://bandzone.cz/ilikeyouhysteric",
-       "profileimage": "",
-       "icoimage": "content/images/artists/i-like-you-hysteric-150.jpg",
-       "profiletext": "Indie rockové duo se po české festivalové scéně už pár let pohybuje. Desky nevydávají, stačí jim krátká EP a jak tvrdí o svém posledním počinu: „Potřetí si Andrzej s Márou hrají se zvířátky. Potřetí se nechávají inspirovat krutou moravskou tmou.“ Je pravda, že jejich tvorba je ponuře příjemná, ale copak o našem Slezsku vědí (jižní Moravu asi nemyslí)? Poslechněte si a zeptejte se osobně na AlterStagi.",
-       "shortdesc": "indie",
-       "origin": "Praha"
-
-                        },
-                        {
-                            "id": "ann",
-                            "name": "My Name is Ann!",
-                            "time": "19:50",
-                            "duration": 55,
-       "wwwlink": "http://bandzone.cz/mynameisann",
-       "profileimage": "",
-       "icoimage": "content/images/artists/my-name-is-ann-150.jpg",
-       "profiletext": "Hudba lepkavá a obalující jako cukrkandl na rukách, který ale nevadí a naopak příjemně lepí a hřeje. K tomu texty třeba o samotě a řezání se v lese, nebo o úlevě, když můžeš na dlouhý čas opustit českou kotlinu a vyjet žít ven. My Name is Ann! vás v sobotu večer budou bavit. Jedna z dlouholetých stálic a při tom i stále svěženek naší nejen elektronické scény, vedená zpěvačkou, hudebnicí, saxofonistkou, performerkou, hudební novinářkou a hybnou silou mnoha uměleckých a zajímavých aktivit KnofLenkou. Barevný set, při kterém bude Dokořán tančit. Bude to něžné a silné, a to jistě nejen pro holky, které můžou hrdě říct: My Name is Ann!",
-       "shortdesc": "electronica",
-       "origin": "Malá Skála"
-
-                        },
-                        {
-                            "id": "terne",
-                            "name": "Terne Čhave",
-                            "time": "21:45",
-                            "duration": 50,
-       "wwwlink": "http://bandzone.cz/ternechave",
-       "profileimage": "",
-       "icoimage": "content/images/artists/terne-chave-150.jpg",
-       "profiletext": "TERNE ČHAVE – it’s only Rom’n'Roll… Všichni víme, že cikánská muzika je energická, taneční, živá a strhující. Proč se jí nepoddat právě s jednou z nejúspěšnějších českých interpretů? Jak sami říkají, mezi členy nejsou jen gadžové a díky své hudbě projeli Evropou odshora dolů, zleva doprava. Terne Čhave získali  za album More, love! ANDĚLA za nejlepší české album roku 2008 v kategorii world music. Sami ale o sobě tvrdí, že nemají žánrové zařazení, ale hrají dle svého temperamentu. Pak to tedy bude něco.",
-       "shortdesc": "world music",
-       "origin": "Hradec Králové"
-
-                        },
-                        {
-                            "id": "evolution",
-                            "name": "Evolution Dejavu",
-                            "time": "23:30",
-                            "duration": 50,
-       "wwwlink": "http://bandzone.cz/evolutiondejavu",
-       "profileimage": "",
-       "icoimage": "content/images/artists/evolution-dejavu-150.jpg",
-       "profiletext": "Je vám to povědomé? Mělo by, tato pětičlenná formace pocházející z Ostravy se energicky pustila do progresivního ethno groove s prvky worldmusic, ovšem jejich vystoupení nejsou jen klávesy, ale na koncertech se plně věnují svým svým posluchačům. Při tvorbě používají kromě obvyklé „čtyřky“ (zpěv, kytara, bicí, basskytara) také samply a tradiční nástroje z celého světa: didjeridoo, djembe, darbuka, dholl, perkuse, dhondo, bendir, kaval atd. V Polsku debutovala kapela v budově Wroclawské opery v podobě živého hudebního doprovodu němého filmu „Tabu“ režiséra W. Murnoa z roku 1931 na pozvání tamního filmového festivalu Era Nowe Horyzonty. Kapela byla v roce 2004 vyhlášena jako objev festivalu Colours of Ostrava. Tak si je nenechte ujít v sobotu v noci.",
-       "shortdesc": "electronica",
-       "origin": "Ostrava"
-
-                        },
-                        {
-                            "id": "ion",
-                            "name": "Ion At An",
-                            "time": "01:10",
-                            "duration": 50,
-       "wwwlink": "http://bandzone.cz/ionatan",
-       "profileimage": "",
-       "icoimage": "content/images/artists/ion-at-an-150.jpg",
-       "profiletext": "Pokud formaci neznáte, neuvěříte, že je to \"one man project\". Jonatán Kaleta působil i v kapele, ale  cítil touhu po vlastním, samostatném díle. Už v 16 letech nahrál své první album. Tehdy bylo multižánrové, pak následovalo death/blackmetalové demo. Dalším album Project 01 z roku 2005 je celé nahráno ve smyšleném jazyce. Důvodem bylo \"pojmutí zpěvu jako dalšího nástroje, vyjadřujícího především vnitřní napětí a emoce, ne konkrétní myšlenkový obsah.\" V březnu 2011 Jonatan dokončil album Jonatan – Obrazy. Stylově dost rozmanité, pohybující se na vlnách jemnějších hudebních žánrů. Necháte si ho ujít?",
-       "shortdesc": "emo-metalcore",
-       "origin": "Kladno"
-                        }
-                    ]
-                },
-                {
-                    "id": "theatre",
-                    "name": "Theatre",
-                    "artists": [
-                        {
-                            "id": "kabaret",
-                            "name": "Kabaret Zajíc v pytli",
+                            "id": "starf",
+                            "name": "Starf",
                             "time": "17:30",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/zajic-v-pytli-150.jpg",
-       "profiletext": "Tradiční ostravský kabaret na pytel. Kabaretiéři Petr Sedláček a Zeno Václavík opět uvítají světové umělce lokálního významu a bezvýznamné umělce ze světových lokálů!<br /><br />Vtipy bez pointy, scénky bez konce, písně beze zpěvu, rum zdarma, notorická kouzla a mnohá další nečekaná překvapení!<br /><br />HUMOR v celé své trapnosti ZARUČEN!",
-"shortdesc": "kabaret",
-"origin": ""
-
+                            "duration": 90,
+                            "wwwlink": "http://www.idj.cz/starf/",
+                            "icoimage": "content/images/artists/starf.jpg",
+                            "profiletext": "Narozen 1988 v Praze, o hudbu jsem se zacal zajimat jiz v utlem mladi, nicmene k EDM jsem se dostal az ve svych 17 letech pres prog trance.<br><br>Cca pul roku jsem experimentoval s ruznymi styly az jsem nakonec zakotvil u melodictejsiho minimalu apod., rad experimentuji a nerad nechavam sve midi jen tak koukat a nudit se :)",
+                            "shortdesc": "",
+                            "booking": "Otrozona",
+                            "origin": "cz"
                         },
                         {
-                            "id": "cucky",
-                            "name": "Divadlo na cucky / Všichni Teigeho muži",
+                            "id": "dacube",
+                            "name": "Dacube",
+                            "time": "19:00",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Cosmic Frog",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "darkol",
+                            "name": "Darkol Trinity",
+                            "time": "20:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/darkol-trinity",
+                            "icoimage": "content/images/artists/darkol.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "Glitchy Tonic rec.",
+                            "origin": "ru"
+                        },
+                        {
+                            "id": "yudhisthira",
+                            "name": "Yudhisthira",
+                            "time": "22:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/yudhisthira",
+                            "icoimage": "content/images/artists/yudhisthira.jpg",
+                            "profiletext": "Yudhisthira is the oldest Macedonian goa/psychedelic trance band, consisted of Ogi and Bugi. Those talented musicians met back in 1997 and decided to make music together. Their first gig dates back in 1998. Ogi is a producer (also working as sound engineer for video projects) and DJ and Bugi is multi talented music genius that played in many ethno bands. Their music speaks itself and their live act is a unique trance experience. Performed all around here and there: Austria, Belgium, Bulgaria, Croatia, Italy, France, Finland, Germany, Japan, Portugal, Russia, Serbia, Slovenia, Taiwan, Turkey, Ukraine and hundreds of times in Macedonia. They released the first album CivilizationandTranscendance in 2008 for Glowing Flame rec. The second one SineQuaNon for Vertigo rec. in 2011",
+                            "shortdesc": "live",
+                            "booking": "Vertigo rec.",
+                            "origin": "mk"
+                        },
+                        {
+                            "id": "muscaria",
+                            "name": "Muscaria",
+                            "time": "00:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/paramuscaria",
+                            "icoimage": "content/images/artists/muscaria.jpg",
+                            "profiletext": "The mastermind behind Muscaria is Thomas Wiesinger, located in Austria. Introduced to the Psychodelic music scene in 2000, he started djing in 2004. After paricipating many parties, he began to make his own sound in 2006. He describes his sound as expermintal psychodelic sound, using many differnent hardware synth´s, taking a lot of insperation from oldschool sounds of the early 90´s.",
+                            "shortdesc": "live",
+                            "booking": "Banyan rec.",
+                            "origin": "au"
+                        },
+                        {
+                            "id": "gappeq",
+                            "name": "Gappeq",
+                            "time": "02:30",
+                            "duration": 120,
+                            "wwwlink": "http://www.myspace.com/gappeq",
+                            "icoimage": "content/images/artists/gappeq.jpg",
+                            "profiletext": "Hi, my name is Jiri Tomasek and i have been involved in music since i was 10 years old. My first steps with a guitar in my hand lead through folk&country music, shortly after that i started playing classical guitar. Later on i also played the keyboards and percussions in a live band.<br><br>It didn’t take long and i discovered electronic sounds and started exploring how to make some myself. I got a little MS-DOS based tracker called Tetramed, loaded up some 8-bit samples and filled all 4 available tracks with them! The software and hardware changed over the years, but not the passion. Musical styles didn’t matter to me, i’ve gone through d’n'b, breakbeat, trance, dub, house, industrial, ambient, and everthing in between. The change happened in 2000. Got into psytrance and couldn’t get out, so i stayed in and released some tracks on Ketuh Records. Response was good, more releases followed. I started playing at parties around Europe, then i moved to Sydney to study sound engineering at SAE for a few years.<br><br>My first official album was released during this period on Wirikuta Recordings. Music comes out of my computer, my only role being not to screw it up. It likes being driven by layers of atmospheric textures interlacing and weaving a way for an experienced and attentive listener. It has never been speed-driven.<br><br>2010 is the year of my second album, Made of Clay, released on Parvati Records.",
+                            "shortdesc": "live",
+                            "booking": "Parvati rec.",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "psyrix",
+                            "name": "Psyrix",
+                            "time": "04:30",
+                            "duration": 90,
+                            "wwwlink": "https://myspace.com/djpsyrix",
+                            "icoimage": "content/images/artists/psyrix.jpg",
+                            "profiletext": "Dj Psyrix aka Michal is a 31-year-old Czech artist with Greek and Polish roots living in Prague.His DJ career started in 1998 in the Czech underground techno scene. In 1999 he became one of the founding members of the Hedonix crew.<br><br>Together with Perplex, Prenatal and Searcher they helped to develop the Psytrance scene in Czech Republic. They started new festival projects such as the well known Valpurga festival and spread the psychedelic culture through the air with the show “Vibrations” on radio Akropolis.<br><br>In 2010 Psyrix completed his audio engineering degree in Amsterdam and then went on to start a project called “Silent Studio” which specializes in creative media and sound design<br><br>Psyrix is known for his unorthodox mixing style influenced by other music genres.<br><br>He focuses on excellent sound quality and prefered genre is organic forest trance with many breakdowns and twisted leads.",
+                            "shortdesc": "",
+                            "booking": "Nedonix",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "petrix",
+                            "name": "Petrix",
+                            "time": "06:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/petrixx",
+                            "icoimage": "content/images/artists/petrix.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Trancecarpathiarts",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "wirrareka",
+                            "name": "Wirrareka & Galactic Sun",
+                            "time": "07:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/wirrareka",
+                            "icoimage": "content/images/artists/wirrareka.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "Mystical Waves",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "ogidogi",
+                            "name": "Ogi dogi",
+                            "time": "09:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/yudhisthira",
+                            "icoimage": "content/images/artists/ogidogi.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Vertigo rec.",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "kusvekyakakao",
+                            "name": "Kusvekyakakao",
+                            "time": "11:00",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/kusvekyakakao.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Noise tribe",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "suprise",
+                            "name": "??",
+                            "time": "12:30",
+                            "duration": 210,
+                            "wwwlink": "http://",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "chill",
+                    "name": "Chill Out",
+                    "artists": [
+                        {
+                            "id": "psygor",
+                            "name": "Psygor, Kapec, Harry",
+                            "time": "05:30",
+                            "duration": 300,
+                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
+                            "icoimage": "content/images/artists/psygor.jpg",
+                            "profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
+                            "shortdesc": "",
+                            "booking": "psyalaska",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "glob",
+                            "name": "Glob a Globbeq",
+                            "time": "10:30",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "U.S.E",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "shantiboy",
+                            "name": "Shantiboy 108",
+                            "time": "12:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/shantiboy108",
+                            "icoimage": "content/images/artists/shantiboy.jpg",
+                            "profiletext": "Vyrostl na tekno/DnB akcích pod vlivem levného alkoholu a předražených drog, po přechodu do nového tisíciletí se pak nejčastěji pohyboval na psytrance akcích. Jinak se o něm nic moc neví, občas se od něj objeví nějaká recenze na newmusic.cz nebo psytrance.cz a příležitostně se prý někde ukáže a něco zahraje (třeba na bassta fidli akcích v Uh. Hradišti nebo ve sluníčkových psy chill outech, kde většinou hraje něco, co se tam moc nehodí). Když se mu zadaří pár mixů, říká tomu DJing, když ne, nechává si říkat selector. Stylově cokoliv od mash-up/bastard popu přes breakcore/experimental/IDM až po dubstep, ambient, psytrance atd...",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "petrix",
+                            "name": "Petrix",
+                            "time": "13:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/petrixx",
+                            "icoimage": "content/images/artists/petrix.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Trancecarpathiarts",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "gunsiq",
+                            "name": "Guns IQ",
+                            "time": "15:00",
+                            "duration": 90,
+                            "wwwlink": "http://www.trootootoo.com/",
+                            "icoimage": "content/images/artists/gunsiq.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Trootootoo",
+                            "origin": "ru"
+                        },
+                        {
+                            "id": "dacube",
+                            "name": "Dacube",
+                            "time": "16:30",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Cosmic Frog",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "dizetai",
+                            "name": "Dizetai",
+                            "time": "18:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/dizetai",
+                            "icoimage": "content/images/artists/dizetai.jpg",
+                            "profiletext": "",
+                            "shortdesc": "live",
+                            "booking": "WKC",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "nulatri",
+                            "name": "000333",
                             "time": "19:30",
-                            "duration": 75,
-       "wwwlink": "http://www.divadlonacucky.cz/",
-       "profileimage": "",
-       "icoimage": "content/images/artists/divadlo-na-cucky-150.jpeg",
-       "profiletext": "Autorská inscenace vytvořená metodou storytellingu. Herci přestávají hrát a stávají se autory a vypravěči příběhů, vrací se a znovuobjevují tradici vyprávění.<br /><br />20. léta 20. století.<br />Mondénní a neodolatelná asonance se snoubí s metaforou, tím galantním světákem.<br />Když zazvoní třicet budíčků, probouzí se umění života – poetismus a všichni jeho muži.<br />Jací vlastně byli?<br />\"Na tváři lehký žal, hluboký v srdci smích.\"<br />Možná tvořili denně a nebo jen na cestách. Psali si básně tužkou na hospodské účtenky nebo jen perem v poklidu své pracovny. Ženy je nejspíš obdivovaly a dost možná i velmi milovaly.<br />Jak vlastně žili, když poetismus mizel a oni byli ještě tak mladí?<br />Karel Teige, Jaroslav Seifert, Konstantin Biebl, Vítězslav Nezval, Vladimír Holan a Toyen.<br /><br />Divadlo na cucky je nezávislé seskupení amatérských a profesionálních tvůrců. Ve své dramaturgii se soustředí buď na ryze autorské projekty čerpající z rozmanitých potřeb souboru (tvorba vycházející z tématu, konkrétního místa / prostoru, či žánru, případně autorské dramatizace), anebo na objevnou dramaturgii u nás nepříliš uváděných textů (Jon Fosse, Laura de Weck, Sarah Kane, Gerhilda Steinbuch). Inscenace realizuje nejen v \"klasickém\" divadelním prostoru, ale také v hospodách (Kabaret Kaldera), v plenéru (HRA na život, Poiésis) nebo zapadlých místech (site-specific projekty Nukleární periferie, HRAna šílenství). Krom toho se divadlo soustředí i na realizaci divadelních dílen a to formou tzv. \"otevřených workshopů Divadla na cucky\", přístupných širší veřejnosti. Další aktivitou je pořádání scénických čtení.",
-       "shortdesc": "inscenace",
-       "origin": ""
-
+                            "duration": 120,
+                            "wwwlink": "http://www.mimo.cz",
+                            "icoimage": "content/images/artists/000333.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Mimo TV",
+                            "origin": "cz"
                         },
                         {
-                            "id": "fajt",
-                            "name": "Pavel Fajt",
-                            "time": "21:45",
-                            "duration": 60,
-       "wwwlink": "",
-       "profileimage": "",
-       "icoimage": "content/images/artists/pavel-fajt-150.jpg",
-       "profiletext": "Pavel Fajt přichází do Karviné s projektem Drumtrek. Stačí Vám bicí, nepotřebujete celou kapelu nebo dokonce orchestr. Svou tvorbou dle vlastních slov „reflektuje hudební styly a přetváří je do řeči bubnů, zvuků, elektronických pasáží a polyrytmických ploch.“ Poslechovka výborná, ovšem i oči se napasou, protože takovou práci s bicími jste ještě neviděli. ",
-       "shortdesc": "perkuse",
-       "origin": ""
+                            "id": "seamoon",
+                            "name": "Seamoon",
+                            "time": "21:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/seamoon",
+                            "icoimage": "content/images/artists/seamoon.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Awakening rec.",
+                            "origin": "d"
+                        },
+                        {
+                            "id": "smokevis",
+                            "name": "Smoke Visions",
+                            "time": "23:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/smoke-visions",
+                            "icoimage": "content/images/artists/smoke-visions.jpg",
+                            "profiletext": "goa-psy trance and dubstep producer from dark forests of Bouzov microregion",
+                            "shortdesc": "live",
+                            "booking": "U.S.E",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "mihail",
+                            "name": "Mihail",
+                            "time": "01:30",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Cosmic Frog",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "darjeel",
+                            "name": "Darjeel",
+                            "time": "03:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/darjeel",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "glitch.cz",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "eklektikfl",
+                            "name": "Eklektik Fluidum",
+                            "time": "04:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/eklektik_fluidum",
+                            "icoimage": "content/images/artists/eklektik.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Bass:till:beat",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "kashmir",
+                            "name": "Kashmir",
+                            "time": "06:00",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Hedonix",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "psygor",
+                            "name": "Psygor, Kapec, Harry",
+                            "time": "07:30",
+                            "duration": 270,
+                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
+                            "icoimage": "content/images/artists/psygor.jpg",
+                            "profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
+                            "shortdesc": "",
+                            "booking": "psyalaska",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "mihail",
+                            "name": "Mihail",
+                            "time": "12:00",
+                            "duration": 300,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Cosmic Frog",
+                            "origin": "cz"
                         }
                     ]
                 }
             ]
         }
-
     ]
 }
